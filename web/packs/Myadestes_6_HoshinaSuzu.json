@@ -1,0 +1,390 @@
+{
+    "title": "星奈铃 ホシナスズ🌟鸫酱 @myadestes",
+    "id": "tg-5240184525769670670",
+    "net.maunium.telegram.pack": {
+        "short_name": "Myadestes_6_HoshinaSuzu",
+        "hash": "-1948421835"
+    },
+    "stickers": [
+        {
+            "body": "🐱",
+            "url": "mxc://matrix.org/BSRWXlXXHGHeQPZBTRFZxDug",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 156701,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/BSRWXlXXHGHeQPZBTRFZxDug",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 156701,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6091381459686261700",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5240184525769670670",
+                    "short_name": "Myadestes_6_HoshinaSuzu"
+                },
+                "id": "6091381459686261700",
+                "emoticons": [
+                    "🐱"
+                ]
+            }
+        },
+        {
+            "body": "❓",
+            "url": "mxc://matrix.org/LhbcqOhfhWexxqgodLbEkIWU",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 202503,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/LhbcqOhfhWexxqgodLbEkIWU",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 202503,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6088985628144305216",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5240184525769670670",
+                    "short_name": "Myadestes_6_HoshinaSuzu"
+                },
+                "id": "6088985628144305216",
+                "emoticons": [
+                    "❓",
+                    "❔"
+                ]
+            }
+        },
+        {
+            "body": "❓",
+            "url": "mxc://matrix.org/hSiuwtooMJFPFklGnCgHBCMC",
+            "info": {
+                "w": 256,
+                "h": 212,
+                "size": 96085,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/hSiuwtooMJFPFklGnCgHBCMC",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 212,
+                    "size": 96085,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6089030849854964912",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5240184525769670670",
+                    "short_name": "Myadestes_6_HoshinaSuzu"
+                },
+                "id": "6089030849854964912",
+                "emoticons": [
+                    "❓",
+                    "❔"
+                ]
+            }
+        },
+        {
+            "body": "😱",
+            "url": "mxc://matrix.org/SkoXbFHtcdnqGzIubEynwDTB",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 257261,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/SkoXbFHtcdnqGzIubEynwDTB",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 257261,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6088989755607876626",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5240184525769670670",
+                    "short_name": "Myadestes_6_HoshinaSuzu"
+                },
+                "id": "6088989755607876626",
+                "emoticons": [
+                    "😱"
+                ]
+            }
+        },
+        {
+            "body": "😏",
+            "url": "mxc://matrix.org/aLlJFINqtzyfzLnYWberPBFt",
+            "info": {
+                "w": 202,
+                "h": 256,
+                "size": 149651,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/aLlJFINqtzyfzLnYWberPBFt",
+                "thumbnail_info": {
+                    "w": 202,
+                    "h": 256,
+                    "size": 149651,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6088893007174566887",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5240184525769670670",
+                    "short_name": "Myadestes_6_HoshinaSuzu"
+                },
+                "id": "6088893007174566887",
+                "emoticons": [
+                    "😏"
+                ]
+            }
+        },
+        {
+            "body": "😀",
+            "url": "mxc://matrix.org/CVisolIYQWaClhxZQylKnlEV",
+            "info": {
+                "w": 256,
+                "h": 237,
+                "size": 245846,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/CVisolIYQWaClhxZQylKnlEV",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 237,
+                    "size": 245846,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6088888952725439352",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5240184525769670670",
+                    "short_name": "Myadestes_6_HoshinaSuzu"
+                },
+                "id": "6088888952725439352",
+                "emoticons": [
+                    "😀"
+                ]
+            }
+        },
+        {
+            "body": "😨",
+            "url": "mxc://matrix.org/qweDbSspusPssSdCXCsIKWMh",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 313767,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/qweDbSspusPssSdCXCsIKWMh",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 313767,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6089381237581939753",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5240184525769670670",
+                    "short_name": "Myadestes_6_HoshinaSuzu"
+                },
+                "id": "6089381237581939753",
+                "emoticons": [
+                    "😨",
+                    "😰"
+                ]
+            }
+        },
+        {
+            "body": "🤪",
+            "url": "mxc://matrix.org/QvwKuXMUFYeYQVRlAXqxQWOS",
+            "info": {
+                "w": 256,
+                "h": 196,
+                "size": 87003,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/QvwKuXMUFYeYQVRlAXqxQWOS",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 196,
+                    "size": 87003,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6089208326493570237",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5240184525769670670",
+                    "short_name": "Myadestes_6_HoshinaSuzu"
+                },
+                "id": "6089208326493570237",
+                "emoticons": [
+                    "🤪"
+                ]
+            }
+        },
+        {
+            "body": "😘",
+            "url": "mxc://matrix.org/LcvGXtoANVeGvpyVrRvZGCqb",
+            "info": {
+                "w": 256,
+                "h": 236,
+                "size": 270317,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/LcvGXtoANVeGvpyVrRvZGCqb",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 236,
+                    "size": 270317,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6088957646432371363",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5240184525769670670",
+                    "short_name": "Myadestes_6_HoshinaSuzu"
+                },
+                "id": "6088957646432371363",
+                "emoticons": [
+                    "😘"
+                ]
+            }
+        },
+        {
+            "body": "😈",
+            "url": "mxc://matrix.org/JRPhIDEQQnhGfrhhacASUOyz",
+            "info": {
+                "w": 204,
+                "h": 256,
+                "size": 255433,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/JRPhIDEQQnhGfrhhacASUOyz",
+                "thumbnail_info": {
+                    "w": 204,
+                    "h": 256,
+                    "size": 255433,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6089346405397169312",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5240184525769670670",
+                    "short_name": "Myadestes_6_HoshinaSuzu"
+                },
+                "id": "6089346405397169312",
+                "emoticons": [
+                    "😈"
+                ]
+            }
+        },
+        {
+            "body": "😈",
+            "url": "mxc://matrix.org/FXesfcEAQjnWJDUAcymunybY",
+            "info": {
+                "w": 210,
+                "h": 256,
+                "size": 249486,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/FXesfcEAQjnWJDUAcymunybY",
+                "thumbnail_info": {
+                    "w": 210,
+                    "h": 256,
+                    "size": 249486,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6089214030210138922",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5240184525769670670",
+                    "short_name": "Myadestes_6_HoshinaSuzu"
+                },
+                "id": "6089214030210138922",
+                "emoticons": [
+                    "😈"
+                ]
+            }
+        },
+        {
+            "body": "😊",
+            "url": "mxc://matrix.org/CckpuLRSlhdAxAhNxmTZNwrE",
+            "info": {
+                "w": 240,
+                "h": 256,
+                "size": 219238,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/CckpuLRSlhdAxAhNxmTZNwrE",
+                "thumbnail_info": {
+                    "w": 240,
+                    "h": 256,
+                    "size": 219238,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6089122268233859854",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5240184525769670670",
+                    "short_name": "Myadestes_6_HoshinaSuzu"
+                },
+                "id": "6089122268233859854",
+                "emoticons": [
+                    "😊"
+                ]
+            }
+        },
+        {
+            "body": "💤",
+            "url": "mxc://matrix.org/bHhryllqUetWJsDFQLgaegUJ",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 273617,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/bHhryllqUetWJsDFQLgaegUJ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 273617,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6089086473976415327",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5240184525769670670",
+                    "short_name": "Myadestes_6_HoshinaSuzu"
+                },
+                "id": "6089086473976415327",
+                "emoticons": [
+                    "💤"
+                ]
+            }
+        }
+    ]
+}

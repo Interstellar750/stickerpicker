@@ -1,0 +1,735 @@
+{
+    "title": "猫雷Nyaru @Rosmontis",
+    "id": "tg-4965703452328984609",
+    "net.maunium.telegram.pack": {
+        "short_name": "Necora_Nyaru",
+        "hash": "-1725369457"
+    },
+    "stickers": [
+        {
+            "body": "🤔",
+            "url": "mxc://matrix.org/sNjVWnRvOAKgBapATWjsZMRh",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 373187,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/sNjVWnRvOAKgBapATWjsZMRh",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 373187,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253448017626531376",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253448017626531376",
+                "emoticons": [
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "🤗",
+            "url": "mxc://matrix.org/VPVEgkxzksVByhCSYeRYjmfd",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 348796,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/VPVEgkxzksVByhCSYeRYjmfd",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 348796,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253707240377681318",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253707240377681318",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "🤗",
+            "url": "mxc://matrix.org/cJpwOeefKjnycNSsIXERywBW",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 376031,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/cJpwOeefKjnycNSsIXERywBW",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 376031,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253794849120584903",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253794849120584903",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "😘",
+            "url": "mxc://matrix.org/OeQGYSrVOSHQYvquqCqWqbUc",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 357685,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/OeQGYSrVOSHQYvquqCqWqbUc",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 357685,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253735642996410016",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253735642996410016",
+                "emoticons": [
+                    "😘"
+                ]
+            }
+        },
+        {
+            "body": "😡",
+            "url": "mxc://matrix.org/jkeWcrxzAqKIKaNXRNahqjjf",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 381249,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/jkeWcrxzAqKIKaNXRNahqjjf",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 381249,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253499467039770360",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253499467039770360",
+                "emoticons": [
+                    "😡"
+                ]
+            }
+        },
+        {
+            "body": "😄",
+            "url": "mxc://matrix.org/YonCzLinndLgUmiuwBbGPtfY",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 377113,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/YonCzLinndLgUmiuwBbGPtfY",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 377113,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253550779014055094",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253550779014055094",
+                "emoticons": [
+                    "😄"
+                ]
+            }
+        },
+        {
+            "body": "🤗",
+            "url": "mxc://matrix.org/lHFOSCyWgFQVxovISbBytBlg",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 362802,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/lHFOSCyWgFQVxovISbBytBlg",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 362802,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6255908840613611150",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6255908840613611150",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "😲",
+            "url": "mxc://matrix.org/mUjYjJnHJSOBlbSOitRagAfQ",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 384938,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/mUjYjJnHJSOBlbSOitRagAfQ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 384938,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6255930053457086049",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6255930053457086049",
+                "emoticons": [
+                    "😲"
+                ]
+            }
+        },
+        {
+            "body": "❌",
+            "url": "mxc://matrix.org/jLiqrCqmlBIPnevdBHUtRFCa",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 356271,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/jLiqrCqmlBIPnevdBHUtRFCa",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 356271,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253738327350969731",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253738327350969731",
+                "emoticons": [
+                    "❌"
+                ]
+            }
+        },
+        {
+            "body": "😋",
+            "url": "mxc://matrix.org/pQhFNFihRBUaEjxBBmRkWxDs",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 369836,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/pQhFNFihRBUaEjxBBmRkWxDs",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 369836,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6255989577408841155",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6255989577408841155",
+                "emoticons": [
+                    "😋"
+                ]
+            }
+        },
+        {
+            "body": "🙇",
+            "url": "mxc://matrix.org/yTnmMfWmahWaxEbhCjTaVyMJ",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 315956,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/yTnmMfWmahWaxEbhCjTaVyMJ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 315956,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253318618851837344",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253318618851837344",
+                "emoticons": [
+                    "🙇"
+                ]
+            }
+        },
+        {
+            "body": "😅",
+            "url": "mxc://matrix.org/MiIakwHwcyfDuJbNfnIjXacH",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 355297,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/MiIakwHwcyfDuJbNfnIjXacH",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 355297,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253806613036009343",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253806613036009343",
+                "emoticons": [
+                    "😅"
+                ]
+            }
+        },
+        {
+            "body": "🥺",
+            "url": "mxc://matrix.org/urDfVPiltNOezAdrfYfUfJnf",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 375446,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/urDfVPiltNOezAdrfYfUfJnf",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 375446,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253326551656433392",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253326551656433392",
+                "emoticons": [
+                    "🥺"
+                ]
+            }
+        },
+        {
+            "body": "👻",
+            "url": "mxc://matrix.org/ykPHuDVEUlxfnWfgMNRxEBGF",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 289156,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ykPHuDVEUlxfnWfgMNRxEBGF",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 289156,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253809555088606863",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253809555088606863",
+                "emoticons": [
+                    "👻"
+                ]
+            }
+        },
+        {
+            "body": "💪",
+            "url": "mxc://matrix.org/fccXOPxdlGyYfcerRQSvtZuG",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 402171,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/fccXOPxdlGyYfcerRQSvtZuG",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 402171,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6256020548418012382",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6256020548418012382",
+                "emoticons": [
+                    "💪"
+                ]
+            }
+        },
+        {
+            "body": "💠",
+            "url": "mxc://matrix.org/wtDobjrYvDuQtxhYBjXfcjIQ",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 348025,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/wtDobjrYvDuQtxhYBjXfcjIQ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 348025,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253623703263774348",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253623703263774348",
+                "emoticons": [
+                    "💠"
+                ]
+            }
+        },
+        {
+            "body": "🥰",
+            "url": "mxc://matrix.org/CVDRhqJpBJuEiZxSFFyUpiPU",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 394138,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/CVDRhqJpBJuEiZxSFFyUpiPU",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 394138,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253776780193170786",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253776780193170786",
+                "emoticons": [
+                    "🥰"
+                ]
+            }
+        },
+        {
+            "body": "😇",
+            "url": "mxc://matrix.org/MvKchGBwsRXvpBtIzhnQxSAx",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 368220,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/MvKchGBwsRXvpBtIzhnQxSAx",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 368220,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253723552663471612",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253723552663471612",
+                "emoticons": [
+                    "😇"
+                ]
+            }
+        },
+        {
+            "body": "✌",
+            "url": "mxc://matrix.org/BGnBWRquFgtPqRYIYxQuWpks",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 380328,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/BGnBWRquFgtPqRYIYxQuWpks",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 380328,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253467903325111510",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253467903325111510",
+                "emoticons": [
+                    "✌"
+                ]
+            }
+        },
+        {
+            "body": "👍",
+            "url": "mxc://matrix.org/lwNrAJLNDQpmTSYUdyWiFAaR",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 338152,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/lwNrAJLNDQpmTSYUdyWiFAaR",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 338152,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253551479093724693",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253551479093724693",
+                "emoticons": [
+                    "👍"
+                ]
+            }
+        },
+        {
+            "body": "⭕",
+            "url": "mxc://matrix.org/GLvKYinmKFxFZWcdbNYLdYEO",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 368500,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/GLvKYinmKFxFZWcdbNYLdYEO",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 368500,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6255821962015147361",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6255821962015147361",
+                "emoticons": [
+                    "⭕"
+                ]
+            }
+        },
+        {
+            "body": "👋",
+            "url": "mxc://matrix.org/aoYcAfqGDnIjmmrthRzRPwYu",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 321700,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/aoYcAfqGDnIjmmrthRzRPwYu",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 321700,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6255503352751195976",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6255503352751195976",
+                "emoticons": [
+                    "👋"
+                ]
+            }
+        },
+        {
+            "body": "❤️",
+            "url": "mxc://matrix.org/KkdcGdJOFuYsUxosoyVkqzWn",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 416783,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/KkdcGdJOFuYsUxosoyVkqzWn",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 416783,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253788883411011155",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253788883411011155",
+                "emoticons": [
+                    "❤"
+                ]
+            }
+        },
+        {
+            "body": "👀",
+            "url": "mxc://matrix.org/lKiZkoQqHWXLYZVlDiACKBNr",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 254463,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/lKiZkoQqHWXLYZVlDiACKBNr",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 254463,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253558290911856682",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253558290911856682",
+                "emoticons": [
+                    "👀"
+                ]
+            }
+        },
+        {
+            "body": "🤩",
+            "url": "mxc://matrix.org/EaUGpzkXqqacEHRGAqwtWEQE",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 359058,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/EaUGpzkXqqacEHRGAqwtWEQE",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 359058,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6253636128604161676",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4965703452328984609",
+                    "short_name": "Necora_Nyaru"
+                },
+                "id": "6253636128604161676",
+                "emoticons": [
+                    "🤩"
+                ]
+            }
+        }
+    ]
+}

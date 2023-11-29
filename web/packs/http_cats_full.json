@@ -1,0 +1,2040 @@
+{
+    "title": "http cats",
+    "id": "tg-7983977748064370689",
+    "net.maunium.telegram.pack": {
+        "short_name": "http_cats_full",
+        "hash": "-1196028732"
+    },
+    "stickers": [
+        {
+            "body": "🤔",
+            "url": "mxc://matrix.org/SsnQgPIPWGaWTUpXlJOvGOZe",
+            "info": {
+                "w": 256,
+                "h": 144,
+                "size": 297373,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/SsnQgPIPWGaWTUpXlJOvGOZe",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 144,
+                    "size": 297373,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6111654134820111707",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6111654134820111707",
+                "emoticons": [
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "▶️",
+            "url": "mxc://matrix.org/qWYYsPsMCNicHrJdowVagspc",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 190522,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/qWYYsPsMCNicHrJdowVagspc",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 190522,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114188169819719031",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114188169819719031",
+                "emoticons": [
+                    "▶"
+                ]
+            }
+        },
+        {
+            "body": "↔️",
+            "url": "mxc://matrix.org/usodoaVKSfjHHSlgwswKoCFh",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 129603,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/usodoaVKSfjHHSlgwswKoCFh",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 129603,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6111680261106175741",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6111680261106175741",
+                "emoticons": [
+                    "↔"
+                ]
+            }
+        },
+        {
+            "body": "🤔",
+            "url": "mxc://matrix.org/rIdcqmQkBEEXIPMfrETBzlwy",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 163722,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/rIdcqmQkBEEXIPMfrETBzlwy",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 163722,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6111424723436963146",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6111424723436963146",
+                "emoticons": [
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "👌",
+            "url": "mxc://matrix.org/KoxczGZBDQeIypCSwQoTmGxs",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 144053,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/KoxczGZBDQeIypCSwQoTmGxs",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 144053,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114142054755861292",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114142054755861292",
+                "emoticons": [
+                    "👌",
+                    "🆗",
+                    "✔",
+                    "✅"
+                ]
+            }
+        },
+        {
+            "body": "👌",
+            "url": "mxc://matrix.org/AtyEHTdRtfGZiGolcVJThDCh",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 191469,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/AtyEHTdRtfGZiGolcVJThDCh",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 191469,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113750985098659008",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113750985098659008",
+                "emoticons": [
+                    "👌",
+                    "🆗",
+                    "✔",
+                    "✅"
+                ]
+            }
+        },
+        {
+            "body": "👌",
+            "url": "mxc://matrix.org/elcuYTAHUivwrsHjrHfnqhnn",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 222204,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/elcuYTAHUivwrsHjrHfnqhnn",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 222204,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114054763840537923",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114054763840537923",
+                "emoticons": [
+                    "👌",
+                    "🆗",
+                    "✔",
+                    "✅",
+                    "🍕"
+                ]
+            }
+        },
+        {
+            "body": "❌",
+            "url": "mxc://matrix.org/IhiwcJHVIHFjWmmVZhNLcokQ",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 280940,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/IhiwcJHVIHFjWmmVZhNLcokQ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 280940,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113818639423505296",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113818639423505296",
+                "emoticons": [
+                    "❌",
+                    "❎"
+                ]
+            }
+        },
+        {
+            "body": "🈳",
+            "url": "mxc://matrix.org/sxPvzSQhudccxAsLsLQldNPo",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 237554,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/sxPvzSQhudccxAsLsLQldNPo",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 237554,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114046916935287810",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114046916935287810",
+                "emoticons": [
+                    "🈳",
+                    "😑",
+                    "🙄",
+                    "😶"
+                ]
+            }
+        },
+        {
+            "body": "🤔",
+            "url": "mxc://matrix.org/hIkDaCNOBlNEpqfjTLocoCVm",
+            "info": {
+                "w": 204,
+                "h": 256,
+                "size": 179697,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/hIkDaCNOBlNEpqfjTLocoCVm",
+                "thumbnail_info": {
+                    "w": 204,
+                    "h": 256,
+                    "size": 179697,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6111675751390512503",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6111675751390512503",
+                "emoticons": [
+                    "🤔",
+                    "😕"
+                ]
+            }
+        },
+        {
+            "body": "😕",
+            "url": "mxc://matrix.org/bQPGZmzaPtwvxsdXKBEAfLpU",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 175352,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/bQPGZmzaPtwvxsdXKBEAfLpU",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 175352,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113758574305870778",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113758574305870778",
+                "emoticons": [
+                    "😕"
+                ]
+            }
+        },
+        {
+            "body": "🤔",
+            "url": "mxc://matrix.org/TfMmYUdJUxFzfeyXfQtSXKDg",
+            "info": {
+                "w": 204,
+                "h": 256,
+                "size": 192268,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/TfMmYUdJUxFzfeyXfQtSXKDg",
+                "thumbnail_info": {
+                    "w": 204,
+                    "h": 256,
+                    "size": 192268,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114116327901758603",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114116327901758603",
+                "emoticons": [
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "🕸️",
+            "url": "mxc://matrix.org/uuebdrTukYPbDOlTXBvUfQCF",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 167829,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/uuebdrTukYPbDOlTXBvUfQCF",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 167829,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114069474103526661",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114069474103526661",
+                "emoticons": [
+                    "🕸"
+                ]
+            }
+        },
+        {
+            "body": "🔍",
+            "url": "mxc://matrix.org/jOmqCFireOBVshKKyybvXCCF",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 204594,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/jOmqCFireOBVshKKyybvXCCF",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 204594,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113772653208667121",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113772653208667121",
+                "emoticons": [
+                    "🔍",
+                    "🔎"
+                ]
+            }
+        },
+        {
+            "body": "🤐",
+            "url": "mxc://matrix.org/EajHinzQghICwtcJcsJYpQzh",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 164007,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/EajHinzQghICwtcJcsJYpQzh",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 164007,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113873937127441518",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113873937127441518",
+                "emoticons": [
+                    "🤐"
+                ]
+            }
+        },
+        {
+            "body": "😶",
+            "url": "mxc://matrix.org/GNVfOqebLHKCMzwEBzbMgfsi",
+            "info": {
+                "w": 204,
+                "h": 256,
+                "size": 244422,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/GNVfOqebLHKCMzwEBzbMgfsi",
+                "thumbnail_info": {
+                    "w": 204,
+                    "h": 256,
+                    "size": 244422,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113680745203500291",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113680745203500291",
+                "emoticons": [
+                    "🤔",
+                    "😶"
+                ]
+            }
+        },
+        {
+            "body": "🤫",
+            "url": "mxc://matrix.org/wRzWYycgpEpbObAQyOwyvhZc",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 186706,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/wRzWYycgpEpbObAQyOwyvhZc",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 186706,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114029951814468838",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114029951814468838",
+                "emoticons": [
+                    "🤫",
+                    "✈",
+                    "🛰"
+                ]
+            }
+        },
+        {
+            "body": "↪️",
+            "url": "mxc://matrix.org/aaLBqebQUDNidbsAlImZQcWG",
+            "info": {
+                "w": 204,
+                "h": 256,
+                "size": 205900,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/aaLBqebQUDNidbsAlImZQcWG",
+                "thumbnail_info": {
+                    "w": 204,
+                    "h": 256,
+                    "size": 205900,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113916427238900729",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113916427238900729",
+                "emoticons": [
+                    "↪"
+                ]
+            }
+        },
+        {
+            "body": "↪️",
+            "url": "mxc://matrix.org/UoHSnlehziEcUHkSsiFfxzrJ",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 154989,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/UoHSnlehziEcUHkSsiFfxzrJ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 154989,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6111692110920943887",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6111692110920943887",
+                "emoticons": [
+                    "↪"
+                ]
+            }
+        },
+        {
+            "body": "🖕",
+            "url": "mxc://matrix.org/JdUOWRaQALqeDDHbppADVVLZ",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 234563,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/JdUOWRaQALqeDDHbppADVVLZ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 234563,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113873679429403878",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113873679429403878",
+                "emoticons": [
+                    "🖕"
+                ]
+            }
+        },
+        {
+            "body": "🚫",
+            "url": "mxc://matrix.org/OdCdhpCvSUVXpWmqgpmSJGRZ",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 201099,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/OdCdhpCvSUVXpWmqgpmSJGRZ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 201099,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114090948940006649",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114090948940006649",
+                "emoticons": [
+                    "🚫",
+                    "⛔"
+                ]
+            }
+        },
+        {
+            "body": "🤑",
+            "url": "mxc://matrix.org/iUJCrgHpZYWqlJklCQDhPdVK",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 251853,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/iUJCrgHpZYWqlJklCQDhPdVK",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 251853,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113828882920506683",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113828882920506683",
+                "emoticons": [
+                    "🤑",
+                    "💲",
+                    "💰",
+                    "💵"
+                ]
+            }
+        },
+        {
+            "body": "🚧",
+            "url": "mxc://matrix.org/bAkJIQCjdUxKzcnySrOzsgue",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 121534,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/bAkJIQCjdUxKzcnySrOzsgue",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 121534,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114185214882219440",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114185214882219440",
+                "emoticons": [
+                    "🚫",
+                    "⛔",
+                    "🚧"
+                ]
+            }
+        },
+        {
+            "body": "😵‍💫",
+            "url": "mxc://matrix.org/hQpfTPrJyReSvqwJUmtaNDmV",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 268805,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/hQpfTPrJyReSvqwJUmtaNDmV",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 268805,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113767589442225735",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113767589442225735",
+                "emoticons": [
+                    "😵‍💫",
+                    "😶‍🌫",
+                    "❓"
+                ]
+            }
+        },
+        {
+            "body": "⛔️",
+            "url": "mxc://matrix.org/USPrSAkshFTNzqYjyZGLuNDU",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 116365,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/USPrSAkshFTNzqYjyZGLuNDU",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 116365,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114122297906299904",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114122297906299904",
+                "emoticons": [
+                    "🚫",
+                    "⛔"
+                ]
+            }
+        },
+        {
+            "body": "🙅",
+            "url": "mxc://matrix.org/qmDzQAhlWuDKFANsosEGiTTk",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 210258,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/qmDzQAhlWuDKFANsosEGiTTk",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 210258,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114113720856609895",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114113720856609895",
+                "emoticons": [
+                    "🙅"
+                ]
+            }
+        },
+        {
+            "body": "🔐",
+            "url": "mxc://matrix.org/PEoZXKFYyWfiFeYTUSwljNvK",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 154558,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/PEoZXKFYyWfiFeYTUSwljNvK",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 154558,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113846621135439066",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113846621135439066",
+                "emoticons": [
+                    "🔐",
+                    "🔑"
+                ]
+            }
+        },
+        {
+            "body": "⏳",
+            "url": "mxc://matrix.org/iRRBcGZfZDYShkrWTaNNzYeQ",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 192402,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/iRRBcGZfZDYShkrWTaNNzYeQ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 192402,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113778966810592263",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113778966810592263",
+                "emoticons": [
+                    "⏳",
+                    "⏱"
+                ]
+            }
+        },
+        {
+            "body": "⚔️",
+            "url": "mxc://matrix.org/jqjzeSPVsvFKbdZqXcpBCbrx",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 197896,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/jqjzeSPVsvFKbdZqXcpBCbrx",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 197896,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113830424813765459",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113830424813765459",
+                "emoticons": [
+                    "⚔",
+                    "💥"
+                ]
+            }
+        },
+        {
+            "body": "💨",
+            "url": "mxc://matrix.org/OmlWrdeqKfPkPVXOdBcvWYpR",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 179138,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/OmlWrdeqKfPkPVXOdBcvWYpR",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 179138,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113766584419877928",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113766584419877928",
+                "emoticons": [
+                    "💨"
+                ]
+            }
+        },
+        {
+            "body": "📏",
+            "url": "mxc://matrix.org/JVPjumFeUEtEkDUiAKtwMFWA",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 208055,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/JVPjumFeUEtEkDUiAKtwMFWA",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 208055,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113765429073676303",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113765429073676303",
+                "emoticons": [
+                    "📏"
+                ]
+            }
+        },
+        {
+            "body": "🚫",
+            "url": "mxc://matrix.org/pVkGcBHIelbbikMwhiniAOpg",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 221974,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/pVkGcBHIelbbikMwhiniAOpg",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 221974,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113945654491350193",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113945654491350193",
+                "emoticons": [
+                    "🚫",
+                    "⛔"
+                ]
+            }
+        },
+        {
+            "body": "⛰",
+            "url": "mxc://matrix.org/NiAEqczXFPMtTtarLhzbpgzy",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 125762,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/NiAEqczXFPMtTtarLhzbpgzy",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 125762,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6111713237865071812",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6111713237865071812",
+                "emoticons": [
+                    "⛰",
+                    "🦣"
+                ]
+            }
+        },
+        {
+            "body": "🤥",
+            "url": "mxc://matrix.org/pXuOTKJcWyRXvLPpvDYCkTnu",
+            "info": {
+                "w": 204,
+                "h": 256,
+                "size": 166840,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/pXuOTKJcWyRXvLPpvDYCkTnu",
+                "thumbnail_info": {
+                    "w": 204,
+                    "h": 256,
+                    "size": 166840,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113883832732091820",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113883832732091820",
+                "emoticons": [
+                    "🤥"
+                ]
+            }
+        },
+        {
+            "body": "🤷",
+            "url": "mxc://matrix.org/OEGkCvvGyehTCepZKCNGzrBQ",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 225001,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/OEGkCvvGyehTCepZKCNGzrBQ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 225001,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113679083051156677",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113679083051156677",
+                "emoticons": [
+                    "🤷"
+                ]
+            }
+        },
+        {
+            "body": "🤔",
+            "url": "mxc://matrix.org/KhisrPfyrSgvQtVlhxQkQTaG",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 148072,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/KhisrPfyrSgvQtVlhxQkQTaG",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 148072,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113812227037332641",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113812227037332641",
+                "emoticons": [
+                    "🤔",
+                    "🙄",
+                    "😅"
+                ]
+            }
+        },
+        {
+            "body": "🙀",
+            "url": "mxc://matrix.org/HZzDeasKdrWnOmfGhEAtqQjL",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 159300,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/HZzDeasKdrWnOmfGhEAtqQjL",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 159300,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6111771086779581945",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6111771086779581945",
+                "emoticons": [
+                    "🙀",
+                    "😯",
+                    "😳"
+                ]
+            }
+        },
+        {
+            "body": "🫖",
+            "url": "mxc://matrix.org/RcnoKdbdnoPSHjhFoJrLBTvU",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 142919,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/RcnoKdbdnoPSHjhFoJrLBTvU",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 142919,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113835767753082141",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113835767753082141",
+                "emoticons": [
+                    "🫖"
+                ]
+            }
+        },
+        {
+            "body": "🐦",
+            "url": "mxc://matrix.org/GzHIkjcvKoFIUQjojdVcRDef",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 201700,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/GzHIkjcvKoFIUQjojdVcRDef",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 201700,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113991627821286841",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113991627821286841",
+                "emoticons": [
+                    "🐦",
+                    "🕊"
+                ]
+            }
+        },
+        {
+            "body": "⚠️",
+            "url": "mxc://matrix.org/dUnGAkfOoRPVnJzrHNsQLopQ",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 206392,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/dUnGAkfOoRPVnJzrHNsQLopQ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 206392,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113729342758454638",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113729342758454638",
+                "emoticons": [
+                    "😕",
+                    "⚠"
+                ]
+            }
+        },
+        {
+            "body": "🤷",
+            "url": "mxc://matrix.org/pUSECGGGthrArGmjsUDUYumE",
+            "info": {
+                "w": 204,
+                "h": 256,
+                "size": 174913,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/pUSECGGGthrArGmjsUDUYumE",
+                "thumbnail_info": {
+                    "w": 204,
+                    "h": 256,
+                    "size": 174913,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113776514384266342",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113776514384266342",
+                "emoticons": [
+                    "🤷"
+                ]
+            }
+        },
+        {
+            "body": "🔒",
+            "url": "mxc://matrix.org/OtADFXYqwyNUJzgHPilKjyKF",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 275644,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/OtADFXYqwyNUJzgHPilKjyKF",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 275644,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113970853064475913",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113970853064475913",
+                "emoticons": [
+                    "🔐",
+                    "🔒"
+                ]
+            }
+        },
+        {
+            "body": "🤔",
+            "url": "mxc://matrix.org/zqmfiNGXooyBMrzNPMiSbWZB",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 221612,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/zqmfiNGXooyBMrzNPMiSbWZB",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 221612,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6111480042615735623",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6111480042615735623",
+                "emoticons": [
+                    "🤔",
+                    "😶‍🌫"
+                ]
+            }
+        },
+        {
+            "body": "🌄",
+            "url": "mxc://matrix.org/fcCMiGuiloHTYrevUTJRLvJo",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 179374,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/fcCMiGuiloHTYrevUTJRLvJo",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 179374,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113649864388642166",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113649864388642166",
+                "emoticons": [
+                    "🌄",
+                    "🐤"
+                ]
+            }
+        },
+        {
+            "body": "🆕",
+            "url": "mxc://matrix.org/FNNaeJoZpoROcGMQxmWULXlc",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 154335,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/FNNaeJoZpoROcGMQxmWULXlc",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 154335,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114197305215157449",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114197305215157449",
+                "emoticons": [
+                    "🆕",
+                    "🆙",
+                    "📲"
+                ]
+            }
+        },
+        {
+            "body": "😩",
+            "url": "mxc://matrix.org/VwBcNGTpQpgFbCwVCJpXKdXJ",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 240864,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/VwBcNGTpQpgFbCwVCJpXKdXJ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 240864,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114194981637850315",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114194981637850315",
+                "emoticons": [
+                    "😩",
+                    "😫"
+                ]
+            }
+        },
+        {
+            "body": "⛰",
+            "url": "mxc://matrix.org/RlZFIANGHDGvmHcddAvnrHfC",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 226165,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/RlZFIANGHDGvmHcddAvnrHfC",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 226165,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113739358622189655",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113739358622189655",
+                "emoticons": [
+                    "⛰",
+                    "🦣"
+                ]
+            }
+        },
+        {
+            "body": "😶",
+            "url": "mxc://matrix.org/DwaHRPdMosVqPkdyrfPleUgq",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 173891,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/DwaHRPdMosVqPkdyrfPleUgq",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 173891,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114098009866240777",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114098009866240777",
+                "emoticons": [
+                    "😶"
+                ]
+            }
+        },
+        {
+            "body": "🔞",
+            "url": "mxc://matrix.org/GywHXXflGmQaxKlaxjOBIQwf",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 163017,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/GywHXXflGmQaxKlaxjOBIQwf",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 163017,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113837326826210823",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113837326826210823",
+                "emoticons": [
+                    "🔞"
+                ]
+            }
+        },
+        {
+            "body": "⚖️",
+            "url": "mxc://matrix.org/TRtxSYwAXTGmNuolrfYhcxhB",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 111263,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/TRtxSYwAXTGmNuolrfYhcxhB",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 111263,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114162305526662246",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114162305526662246",
+                "emoticons": [
+                    "⚖"
+                ]
+            }
+        },
+        {
+            "body": "🤔",
+            "url": "mxc://matrix.org/ziwSFcExWgnQeAKgkKDCNpNt",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 173206,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ziwSFcExWgnQeAKgkKDCNpNt",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 173206,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113720654039614642",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113720654039614642",
+                "emoticons": [
+                    "🤔",
+                    "🙄",
+                    "😅"
+                ]
+            }
+        },
+        {
+            "body": "⌛️",
+            "url": "mxc://matrix.org/XZaAUAPEAWHakJuVYSnoiSog",
+            "info": {
+                "w": 204,
+                "h": 256,
+                "size": 176982,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/XZaAUAPEAWHakJuVYSnoiSog",
+                "thumbnail_info": {
+                    "w": 204,
+                    "h": 256,
+                    "size": 176982,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113875977236906989",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113875977236906989",
+                "emoticons": [
+                    "❌",
+                    "⌛"
+                ]
+            }
+        },
+        {
+            "body": "🔴",
+            "url": "mxc://matrix.org/XxArtQMCytBCJwETpTVbAmiN",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 96944,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/XxArtQMCytBCJwETpTVbAmiN",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 96944,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113996485429298416",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113996485429298416",
+                "emoticons": [
+                    "🔴",
+                    "🛑"
+                ]
+            }
+        },
+        {
+            "body": "⚠️",
+            "url": "mxc://matrix.org/PPmaajJHBAidkWFdcByGhOPZ",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 228161,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/PPmaajJHBAidkWFdcByGhOPZ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 228161,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6114045920502875128",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6114045920502875128",
+                "emoticons": [
+                    "🚧",
+                    "⚠"
+                ]
+            }
+        },
+        {
+            "body": "🚧",
+            "url": "mxc://matrix.org/lpWjUOCVrxCFZdvnofymGuyL",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 194807,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/lpWjUOCVrxCFZdvnofymGuyL",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 194807,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6111817352167294720",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6111817352167294720",
+                "emoticons": [
+                    "🚧"
+                ]
+            }
+        },
+        {
+            "body": "🚧",
+            "url": "mxc://matrix.org/rFqPSNxZAoBeRtuKdMcMShTm",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 121139,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/rFqPSNxZAoBeRtuKdMcMShTm",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 121139,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113910336975275311",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113910336975275311",
+                "emoticons": [
+                    "🚧"
+                ]
+            }
+        },
+        {
+            "body": "🚧",
+            "url": "mxc://matrix.org/tQSRHjCrYlNsMlYxTFupdYYd",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 189980,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/tQSRHjCrYlNsMlYxTFupdYYd",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 189980,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113947548571927813",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113947548571927813",
+                "emoticons": [
+                    "🚧"
+                ]
+            }
+        },
+        {
+            "body": "🚧",
+            "url": "mxc://matrix.org/KhEZbZWDLlMrjxppNQVCvgNC",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 123845,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/KhEZbZWDLlMrjxppNQVCvgNC",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 123845,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113871471816213791",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113871471816213791",
+                "emoticons": [
+                    "🚧",
+                    "⌛"
+                ]
+            }
+        },
+        {
+            "body": "🚧",
+            "url": "mxc://matrix.org/VrERAVBeflMRGuzDbaWECQEh",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 224279,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/VrERAVBeflMRGuzDbaWECQEh",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 224279,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6111605051933852946",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6111605051933852946",
+                "emoticons": [
+                    "🚧"
+                ]
+            }
+        },
+        {
+            "body": "🥴",
+            "url": "mxc://matrix.org/bUiPuQAzblpiOmRZaVjvlRoO",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 141896,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/bUiPuQAzblpiOmRZaVjvlRoO",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 141896,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113888733289776666",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113888733289776666",
+                "emoticons": [
+                    "🥴"
+                ]
+            }
+        },
+        {
+            "body": "🌀",
+            "url": "mxc://matrix.org/QrSAWdDvkheXZDxmrxBfzcLi",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 112373,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/QrSAWdDvkheXZDxmrxBfzcLi",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 112373,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6111747924020954549",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6111747924020954549",
+                "emoticons": [
+                    "🌀",
+                    "➰",
+                    "➿"
+                ]
+            }
+        },
+        {
+            "body": "🚧",
+            "url": "mxc://matrix.org/cpbhwQSoaEylyTLaeeRZlbIk",
+            "info": {
+                "w": 204,
+                "h": 256,
+                "size": 167471,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/cpbhwQSoaEylyTLaeeRZlbIk",
+                "thumbnail_info": {
+                    "w": 204,
+                    "h": 256,
+                    "size": 167471,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113731060745373249",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113731060745373249",
+                "emoticons": [
+                    "🚧"
+                ]
+            }
+        },
+        {
+            "body": "📏",
+            "url": "mxc://matrix.org/uRjmWWGwkUdjhvaLYdxFpjNH",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 132291,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/uRjmWWGwkUdjhvaLYdxFpjNH",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 132291,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113766172103017695",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113766172103017695",
+                "emoticons": [
+                    "📏",
+                    "🤏"
+                ]
+            }
+        },
+        {
+            "body": "🔐",
+            "url": "mxc://matrix.org/xgOHJbUZtbYoiAxmaQBQhYHG",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 196618,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/xgOHJbUZtbYoiAxmaQBQhYHG",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 196618,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6111595203573843161",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6111595203573843161",
+                "emoticons": [
+                    "🔐",
+                    "🔑",
+                    "🗝"
+                ]
+            }
+        },
+        {
+            "body": "🛑",
+            "url": "mxc://matrix.org/qZKxFbfaKkwZVUyKQQyAmbyB",
+            "info": {
+                "w": 204,
+                "h": 256,
+                "size": 129213,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/qZKxFbfaKkwZVUyKQQyAmbyB",
+                "thumbnail_info": {
+                    "w": 204,
+                    "h": 256,
+                    "size": 129213,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113775621031068758",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113775621031068758",
+                "emoticons": [
+                    "🚧",
+                    "🛑"
+                ]
+            }
+        },
+        {
+            "body": "🙅",
+            "url": "mxc://matrix.org/oqEhDiTdheQpArBWWdQfZftH",
+            "info": {
+                "w": 204,
+                "h": 256,
+                "size": 116748,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/oqEhDiTdheQpArBWWdQfZftH",
+                "thumbnail_info": {
+                    "w": 204,
+                    "h": 256,
+                    "size": 116748,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113872786076206195",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113872786076206195",
+                "emoticons": [
+                    "🙅"
+                ]
+            }
+        },
+        {
+            "body": "🤝",
+            "url": "mxc://matrix.org/fTIVtxPtlXLqaDDukFzgOOqv",
+            "info": {
+                "w": 204,
+                "h": 256,
+                "size": 164868,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/fTIVtxPtlXLqaDDukFzgOOqv",
+                "thumbnail_info": {
+                    "w": 204,
+                    "h": 256,
+                    "size": 164868,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113769019666334819",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113769019666334819",
+                "emoticons": [
+                    "🤝"
+                ]
+            }
+        },
+        {
+            "body": "⌛️",
+            "url": "mxc://matrix.org/jIhESIlJnfFcGzGhpJJvZDPk",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 147333,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/jIhESIlJnfFcGzGhpJJvZDPk",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 147333,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6113698638037255624",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7983977748064370689",
+                    "short_name": "http_cats_full"
+                },
+                "id": "6113698638037255624",
+                "emoticons": [
+                    "⌛"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,474 @@
+{
+    "title": "夏诺雅 - (Pack by @EdwardLiao )",
+    "id": "tg-3486935251559645188",
+    "net.maunium.telegram.pack": {
+        "short_name": "Shanoa_Vtuber",
+        "hash": "725767333"
+    },
+    "stickers": [
+        {
+            "body": "♥",
+            "url": "mxc://matrix.org/hOQfsyjTvFRbIykPZjgepfjK",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 247373,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/hOQfsyjTvFRbIykPZjgepfjK",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 247373,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6239823840197739306",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6239823840197739306",
+                "emoticons": [
+                    "♥"
+                ]
+            }
+        },
+        {
+            "body": "💤",
+            "url": "mxc://matrix.org/gwgVGFZrFgaHQebFJtPlbZti",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 177223,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/gwgVGFZrFgaHQebFJtPlbZti",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 177223,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6239976633659294648",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6239976633659294648",
+                "emoticons": [
+                    "💤"
+                ]
+            }
+        },
+        {
+            "body": "😃",
+            "url": "mxc://matrix.org/VufvgoaJWrbsxnLjuRTJJHsi",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 202980,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/VufvgoaJWrbsxnLjuRTJJHsi",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 202980,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6239984729672647480",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6239984729672647480",
+                "emoticons": [
+                    "😃"
+                ]
+            }
+        },
+        {
+            "body": "☠️",
+            "url": "mxc://matrix.org/JkTncpfcHqPSyUlZirDeCldW",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 225558,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/JkTncpfcHqPSyUlZirDeCldW",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 225558,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6239850769642685396",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6239850769642685396",
+                "emoticons": [
+                    "☠"
+                ]
+            }
+        },
+        {
+            "body": "🐾",
+            "url": "mxc://matrix.org/IpDyjHPdvGSpwdvgFPjHfmOj",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 260181,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/IpDyjHPdvGSpwdvgFPjHfmOj",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 260181,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6240290561408894053",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6240290561408894053",
+                "emoticons": [
+                    "🐾"
+                ]
+            }
+        },
+        {
+            "body": "🧱",
+            "url": "mxc://matrix.org/qhQRvEDGNYoXFRcJeikdXcqm",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 159389,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/qhQRvEDGNYoXFRcJeikdXcqm",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 159389,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6242354022611681926",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6242354022611681926",
+                "emoticons": [
+                    "🧱"
+                ]
+            }
+        },
+        {
+            "body": "😸",
+            "url": "mxc://matrix.org/OEnTGqqwOQzcPJFwbUCPTupK",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 223574,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/OEnTGqqwOQzcPJFwbUCPTupK",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 223574,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6242470416225403668",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6242470416225403668",
+                "emoticons": [
+                    "😸"
+                ]
+            }
+        },
+        {
+            "body": "😎",
+            "url": "mxc://matrix.org/xrtsjAiraeTZvtIpIRyNazfd",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 229856,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/xrtsjAiraeTZvtIpIRyNazfd",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 229856,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6240117508586603489",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6240117508586603489",
+                "emoticons": [
+                    "😎"
+                ]
+            }
+        },
+        {
+            "body": "😲",
+            "url": "mxc://matrix.org/BufaGnNPUJQDswDFxoQuDwkV",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 217077,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/BufaGnNPUJQDswDFxoQuDwkV",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 217077,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6239798010264421018",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6239798010264421018",
+                "emoticons": [
+                    "😲"
+                ]
+            }
+        },
+        {
+            "body": "💢",
+            "url": "mxc://matrix.org/XJOjxMeFGmNmZETEsTfHKXYn",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 228738,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/XJOjxMeFGmNmZETEsTfHKXYn",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 228738,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6240007785057092696",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6240007785057092696",
+                "emoticons": [
+                    "💢"
+                ]
+            }
+        },
+        {
+            "body": "😒",
+            "url": "mxc://matrix.org/CFkDfCNIqWiAqtWUCqlVcCrf",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 196787,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/CFkDfCNIqWiAqtWUCqlVcCrf",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 196787,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6239969675812275189",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6239969675812275189",
+                "emoticons": [
+                    "😒"
+                ]
+            }
+        },
+        {
+            "body": "😍",
+            "url": "mxc://matrix.org/ZRKfSjTxlclUtTOJLotnUCAF",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 260145,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ZRKfSjTxlclUtTOJLotnUCAF",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 260145,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6239911882732340027",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6239911882732340027",
+                "emoticons": [
+                    "😍"
+                ]
+            }
+        },
+        {
+            "body": "👀",
+            "url": "mxc://matrix.org/xdBXSBfuRgfRpKErSAlsezpZ",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 208858,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/xdBXSBfuRgfRpKErSAlsezpZ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 208858,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6240095604253394362",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6240095604253394362",
+                "emoticons": [
+                    "👀"
+                ]
+            }
+        },
+        {
+            "body": "👍",
+            "url": "mxc://matrix.org/MbXclodVQGWXBTXNkbOAfgMq",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 253526,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/MbXclodVQGWXBTXNkbOAfgMq",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 253526,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6240160501209236229",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6240160501209236229",
+                "emoticons": [
+                    "👍"
+                ]
+            }
+        },
+        {
+            "body": "😖",
+            "url": "mxc://matrix.org/cRSsuHvqWcClGZSPEnDRymcI",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 243663,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/cRSsuHvqWcClGZSPEnDRymcI",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 243663,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6239860733966812250",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6239860733966812250",
+                "emoticons": [
+                    "😖"
+                ]
+            }
+        },
+        {
+            "body": "🔪",
+            "url": "mxc://matrix.org/MDoluzaPizfrTMTnkwPtjSFn",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 210808,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/MDoluzaPizfrTMTnkwPtjSFn",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 210808,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6242070906957464191",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3486935251559645188",
+                    "short_name": "Shanoa_Vtuber"
+                },
+                "id": "6242070906957464191",
+                "emoticons": [
+                    "🔪"
+                ]
+            }
+        }
+    ]
+}

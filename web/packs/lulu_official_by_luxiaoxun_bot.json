@@ -1,0 +1,590 @@
+{
+    "title": "雫るる",
+    "id": "tg-8281967909115265034",
+    "net.maunium.telegram.pack": {
+        "short_name": "lulu_official_by_luxiaoxun_bot",
+        "hash": "-1475922966"
+    },
+    "stickers": [
+        {
+            "body": "🥰",
+            "url": "mxc://matrix.org/RmVYLftESuuIAOBVZldSwsbT",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 276525,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/RmVYLftESuuIAOBVZldSwsbT",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 276525,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044110270750786001",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5044110270750786001",
+                "emoticons": [
+                    "🥰"
+                ]
+            }
+        },
+        {
+            "body": "😎",
+            "url": "mxc://matrix.org/XDeycaMBFunmHkanLCiJkYLG",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 280815,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/XDeycaMBFunmHkanLCiJkYLG",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 280815,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044569711992373910",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5044569711992373910",
+                "emoticons": [
+                    "😎"
+                ]
+            }
+        },
+        {
+            "body": "🍋",
+            "url": "mxc://matrix.org/PfrZxSImEReFGGWPHdflxVRj",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 257595,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/PfrZxSImEReFGGWPHdflxVRj",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 257595,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044076151530586624",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5044076151530586624",
+                "emoticons": [
+                    "🍋"
+                ]
+            }
+        },
+        {
+            "body": "😒",
+            "url": "mxc://matrix.org/PIlxRmwlbRFybxHGWJxYMbcq",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 246451,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/PIlxRmwlbRFybxHGWJxYMbcq",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 246451,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044495890094490256",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5044495890094490256",
+                "emoticons": [
+                    "😒"
+                ]
+            }
+        },
+        {
+            "body": "🤡",
+            "url": "mxc://matrix.org/RmpuxYZQvXMNqxXakvbhdkbi",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 266802,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/RmpuxYZQvXMNqxXakvbhdkbi",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 266802,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044090058634691165",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5044090058634691165",
+                "emoticons": [
+                    "🤡"
+                ]
+            }
+        },
+        {
+            "body": "🤤",
+            "url": "mxc://matrix.org/FhFckQHqGOSadnRaQePKQrBR",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 252288,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/FhFckQHqGOSadnRaQePKQrBR",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 252288,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044215742262673960",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5044215742262673960",
+                "emoticons": [
+                    "🤤"
+                ]
+            }
+        },
+        {
+            "body": "🤔",
+            "url": "mxc://matrix.org/HMItWNWztuCePoRqoErbFvBY",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 262185,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/HMItWNWztuCePoRqoErbFvBY",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 262185,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044579491632906828",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5044579491632906828",
+                "emoticons": [
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "❓",
+            "url": "mxc://matrix.org/FnsNNAkoGwhIXnPBnulsDDfX",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 241929,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/FnsNNAkoGwhIXnPBnulsDDfX",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 241929,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5046801956819960251",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5046801956819960251",
+                "emoticons": [
+                    "❓"
+                ]
+            }
+        },
+        {
+            "body": "🧐",
+            "url": "mxc://matrix.org/plltrhHBNdaXGGqsMtEXLeoc",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 190700,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/plltrhHBNdaXGGqsMtEXLeoc",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 190700,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044210420798194180",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5044210420798194180",
+                "emoticons": [
+                    "🧐"
+                ]
+            }
+        },
+        {
+            "body": "🛌",
+            "url": "mxc://matrix.org/QUQOnHKHOsFxnRGdhjDjFmuS",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 175889,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/QUQOnHKHOsFxnRGdhjDjFmuS",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 175889,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044312572300362509",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5044312572300362509",
+                "emoticons": [
+                    "🛌"
+                ]
+            }
+        },
+        {
+            "body": "🌹",
+            "url": "mxc://matrix.org/ElJofeKoWpwcNoJLcgsMPHww",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 332755,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ElJofeKoWpwcNoJLcgsMPHww",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 332755,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5046728920901091920",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5046728920901091920",
+                "emoticons": [
+                    "🌹"
+                ]
+            }
+        },
+        {
+            "body": "😤",
+            "url": "mxc://matrix.org/jvRvvjrvlPPzLrBjhBqBOfDd",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 288727,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/jvRvvjrvlPPzLrBjhBqBOfDd",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 288727,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5046447042197455212",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5046447042197455212",
+                "emoticons": [
+                    "😤"
+                ]
+            }
+        },
+        {
+            "body": "🤗",
+            "url": "mxc://matrix.org/brHejGPikyftvCpYXrLIRLue",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 288694,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/brHejGPikyftvCpYXrLIRLue",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 288694,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044488859233026617",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5044488859233026617",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "🤓",
+            "url": "mxc://matrix.org/WXoEkbDFNSRoFGAwrZdXiKdn",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 294508,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/WXoEkbDFNSRoFGAwrZdXiKdn",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 294508,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5046786765520634217",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5046786765520634217",
+                "emoticons": [
+                    "🤓"
+                ]
+            }
+        },
+        {
+            "body": "😅",
+            "url": "mxc://matrix.org/EKtwMgHdpWDYkBAoXYAeKpvx",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 285148,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/EKtwMgHdpWDYkBAoXYAeKpvx",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 285148,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044390246783910319",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5044390246783910319",
+                "emoticons": [
+                    "😅"
+                ]
+            }
+        },
+        {
+            "body": "✌️",
+            "url": "mxc://matrix.org/XQisPxAyjcboEhMllIAYbpQp",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 278952,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/XQisPxAyjcboEhMllIAYbpQp",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 278952,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044081421455458850",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5044081421455458850",
+                "emoticons": [
+                    "✌"
+                ]
+            }
+        },
+        {
+            "body": "👆",
+            "url": "mxc://matrix.org/nNGpzGHuymkxjNTvjTKEjrYx",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 287326,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/nNGpzGHuymkxjNTvjTKEjrYx",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 287326,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044498905161531842",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5044498905161531842",
+                "emoticons": [
+                    "👆"
+                ]
+            }
+        },
+        {
+            "body": "💢",
+            "url": "mxc://matrix.org/oJoYGigTPapOwJCayVxYjvSB",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 276297,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/oJoYGigTPapOwJCayVxYjvSB",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 276297,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044272835262939858",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5044272835262939858",
+                "emoticons": [
+                    "💢"
+                ]
+            }
+        },
+        {
+            "body": "🍑",
+            "url": "mxc://matrix.org/uLZZufSXcsXCfeXfSzRRIgQx",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 271005,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/uLZZufSXcsXCfeXfSzRRIgQx",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 271005,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5046367044136600059",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5046367044136600059",
+                "emoticons": [
+                    "🍑"
+                ]
+            }
+        },
+        {
+            "body": "😁",
+            "url": "mxc://matrix.org/aAjrnhxEgvkTGgEIEhbmvrVg",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 281937,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/aAjrnhxEgvkTGgEIEhbmvrVg",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 281937,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044460224686064153",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265034",
+                    "short_name": "lulu_official_by_luxiaoxun_bot"
+                },
+                "id": "5044460224686064153",
+                "emoticons": [
+                    "😁"
+                ]
+            }
+        }
+    ]
+}

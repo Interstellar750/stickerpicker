@@ -1,0 +1,967 @@
+{
+    "title": "白雪アリア",
+    "id": "tg-8281967909115265030",
+    "net.maunium.telegram.pack": {
+        "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot",
+        "hash": "373174481"
+    },
+    "stickers": [
+        {
+            "body": "🥳",
+            "url": "mxc://matrix.org/nwLXoTRDElGijBlGBkFcxQCr",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 335170,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/nwLXoTRDElGijBlGBkFcxQCr",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 335170,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5048741117374235364",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5048741117374235364",
+                "emoticons": [
+                    "🥳"
+                ]
+            }
+        },
+        {
+            "body": "❤️",
+            "url": "mxc://matrix.org/eQKGXMZkisxnirrgUDafzAQv",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 261196,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/eQKGXMZkisxnirrgUDafzAQv",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 261196,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5046356461337182910",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5046356461337182910",
+                "emoticons": [
+                    "❤"
+                ]
+            }
+        },
+        {
+            "body": "💕",
+            "url": "mxc://matrix.org/QLmJYljtlKbKkwyKtXCnegNa",
+            "info": {
+                "w": 256,
+                "h": 239,
+                "size": 217225,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/QLmJYljtlKbKkwyKtXCnegNa",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 239,
+                    "size": 217225,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5156765617952391772",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5156765617952391772",
+                "emoticons": [
+                    "💕"
+                ]
+            }
+        },
+        {
+            "body": "🤐",
+            "url": "mxc://matrix.org/ZUDdcKZqUASVfxEmiVhABVBz",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 331311,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ZUDdcKZqUASVfxEmiVhABVBz",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 331311,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5046647290752664336",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5046647290752664336",
+                "emoticons": [
+                    "🤐"
+                ]
+            }
+        },
+        {
+            "body": "🎂",
+            "url": "mxc://matrix.org/kxlyQeAeRxtCGRhQRYXYzEmt",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 273621,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/kxlyQeAeRxtCGRhQRYXYzEmt",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 273621,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5048567252803125710",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5048567252803125710",
+                "emoticons": [
+                    "🎂"
+                ]
+            }
+        },
+        {
+            "body": "😺",
+            "url": "mxc://matrix.org/jhdhrrsfeOdvaxxbhEpBtzsT",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 307830,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/jhdhrrsfeOdvaxxbhEpBtzsT",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 307830,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5048737157414388422",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5048737157414388422",
+                "emoticons": [
+                    "😺"
+                ]
+            }
+        },
+        {
+            "body": "😥",
+            "url": "mxc://matrix.org/ZrsAbbdtiHcOLNeCxjkvjqaC",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 261129,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ZrsAbbdtiHcOLNeCxjkvjqaC",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 261129,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5048889147717059148",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5048889147717059148",
+                "emoticons": [
+                    "😥"
+                ]
+            }
+        },
+        {
+            "body": "😢",
+            "url": "mxc://matrix.org/mPoDuqzcSbtEpZilPWDgTijV",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 172678,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/mPoDuqzcSbtEpZilPWDgTijV",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 172678,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5156656538667975049",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5156656538667975049",
+                "emoticons": [
+                    "😢"
+                ]
+            }
+        },
+        {
+            "body": "🦇",
+            "url": "mxc://matrix.org/FccoSxqdfUTMkYIZAkivabJq",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 303665,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/FccoSxqdfUTMkYIZAkivabJq",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 303665,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5046497413573902843",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5046497413573902843",
+                "emoticons": [
+                    "🦇"
+                ]
+            }
+        },
+        {
+            "body": "😊",
+            "url": "mxc://matrix.org/rNYeYmlasqtUGbtgBEcjdcOL",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 310631,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/rNYeYmlasqtUGbtgBEcjdcOL",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 310631,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5048551279819752035",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5048551279819752035",
+                "emoticons": [
+                    "😊"
+                ]
+            }
+        },
+        {
+            "body": "🤓",
+            "url": "mxc://matrix.org/FQZefsshkhfuaWnmOtUZyITR",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 276312,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/FQZefsshkhfuaWnmOtUZyITR",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 276312,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5048756849839440420",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5048756849839440420",
+                "emoticons": [
+                    "🤓"
+                ]
+            }
+        },
+        {
+            "body": "😴",
+            "url": "mxc://matrix.org/ggiuiPuriReaMJaKQnyYCsif",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 240420,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ggiuiPuriReaMJaKQnyYCsif",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 240420,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5046531541384036846",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5046531541384036846",
+                "emoticons": [
+                    "😴"
+                ]
+            }
+        },
+        {
+            "body": "🌅",
+            "url": "mxc://matrix.org/DtbEftGkRQTpRyaMUOufrBzl",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 323322,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/DtbEftGkRQTpRyaMUOufrBzl",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 323322,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5046312498051940934",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5046312498051940934",
+                "emoticons": [
+                    "🌅"
+                ]
+            }
+        },
+        {
+            "body": "😸",
+            "url": "mxc://matrix.org/wZkiKgANHpFXZFfdGEyiEJST",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 296768,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/wZkiKgANHpFXZFfdGEyiEJST",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 296768,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5048672720020046521",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5048672720020046521",
+                "emoticons": [
+                    "😸"
+                ]
+            }
+        },
+        {
+            "body": "💕",
+            "url": "mxc://matrix.org/HTjEwIZFMRxOBoZMwPUKLJrM",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 277051,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/HTjEwIZFMRxOBoZMwPUKLJrM",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 277051,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5048838613131854396",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5048838613131854396",
+                "emoticons": [
+                    "💕"
+                ]
+            }
+        },
+        {
+            "body": "👨‍🍳",
+            "url": "mxc://matrix.org/DIerfLmogoCrUVUKqOjqgnxO",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 293658,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/DIerfLmogoCrUVUKqOjqgnxO",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 293658,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5048719926005596627",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5048719926005596627",
+                "emoticons": [
+                    "👨‍🍳"
+                ]
+            }
+        },
+        {
+            "body": "😉",
+            "url": "mxc://matrix.org/qDjCzKMjoQPmZXJjUTZiitHW",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 303694,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/qDjCzKMjoQPmZXJjUTZiitHW",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 303694,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5049003973667717604",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5049003973667717604",
+                "emoticons": [
+                    "😉"
+                ]
+            }
+        },
+        {
+            "body": "😤",
+            "url": "mxc://matrix.org/iBDXZCXMLjbuYmkLYNKGwoIL",
+            "info": {
+                "w": 256,
+                "h": 251,
+                "size": 318738,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/iBDXZCXMLjbuYmkLYNKGwoIL",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 251,
+                    "size": 318738,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5075960472612635147",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5075960472612635147",
+                "emoticons": [
+                    "😤"
+                ]
+            }
+        },
+        {
+            "body": "🥕",
+            "url": "mxc://matrix.org/PWTTQDjxqunaETEpoXLdjxIf",
+            "info": {
+                "w": 255,
+                "h": 256,
+                "size": 373093,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/PWTTQDjxqunaETEpoXLdjxIf",
+                "thumbnail_info": {
+                    "w": 255,
+                    "h": 256,
+                    "size": 373093,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5076009624218370592",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5076009624218370592",
+                "emoticons": [
+                    "🥕"
+                ]
+            }
+        },
+        {
+            "body": "😠",
+            "url": "mxc://matrix.org/KYQlZPKdBUQhKHNtjpODjMXW",
+            "info": {
+                "w": 256,
+                "h": 235,
+                "size": 261799,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/KYQlZPKdBUQhKHNtjpODjMXW",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 235,
+                    "size": 261799,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5159007393312408990",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5159007393312408990",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "😗",
+            "url": "mxc://matrix.org/ZQYknJiKkkQRsIYtrXxviujD",
+            "info": {
+                "w": 256,
+                "h": 190,
+                "size": 187615,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ZQYknJiKkkQRsIYtrXxviujD",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 190,
+                    "size": 187615,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5075881140271710633",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5075881140271710633",
+                "emoticons": [
+                    "😗"
+                ]
+            }
+        },
+        {
+            "body": "🐮",
+            "url": "mxc://matrix.org/vLBIjyNRMEfVxhDlATVLZdOL",
+            "info": {
+                "w": 256,
+                "h": 236,
+                "size": 103131,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/vLBIjyNRMEfVxhDlATVLZdOL",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 236,
+                    "size": 103131,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5073385979021099413",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5073385979021099413",
+                "emoticons": [
+                    "🐮"
+                ]
+            }
+        },
+        {
+            "body": "😓",
+            "url": "mxc://matrix.org/uWjraaxlXtNcAbTFOBqvLUNH",
+            "info": {
+                "w": 238,
+                "h": 256,
+                "size": 237454,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/uWjraaxlXtNcAbTFOBqvLUNH",
+                "thumbnail_info": {
+                    "w": 238,
+                    "h": 256,
+                    "size": 237454,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5075774367384732018",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5075774367384732018",
+                "emoticons": [
+                    "😓"
+                ]
+            }
+        },
+        {
+            "body": "🙄",
+            "url": "mxc://matrix.org/nvILMHdjpllsZDuNaSkAiVab",
+            "info": {
+                "w": 256,
+                "h": 249,
+                "size": 236842,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/nvILMHdjpllsZDuNaSkAiVab",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 249,
+                    "size": 236842,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5075622785103954389",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5075622785103954389",
+                "emoticons": [
+                    "🙄"
+                ]
+            }
+        },
+        {
+            "body": "😙",
+            "url": "mxc://matrix.org/kouRFdrQdIDyXQNFacfCHeQn",
+            "info": {
+                "w": 256,
+                "h": 240,
+                "size": 227544,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/kouRFdrQdIDyXQNFacfCHeQn",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 240,
+                    "size": 227544,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5075578980732502537",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5075578980732502537",
+                "emoticons": [
+                    "😙"
+                ]
+            }
+        },
+        {
+            "body": "😶",
+            "url": "mxc://matrix.org/DNSRIakdXeBTOXnPkZzPPEaj",
+            "info": {
+                "w": 211,
+                "h": 256,
+                "size": 220439,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/DNSRIakdXeBTOXnPkZzPPEaj",
+                "thumbnail_info": {
+                    "w": 211,
+                    "h": 256,
+                    "size": 220439,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5073819298271593009",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5073819298271593009",
+                "emoticons": [
+                    "😶"
+                ]
+            }
+        },
+        {
+            "body": "🤗",
+            "url": "mxc://matrix.org/UHmlZufmFMMmndQfkpFPLeLI",
+            "info": {
+                "w": 234,
+                "h": 256,
+                "size": 202008,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/UHmlZufmFMMmndQfkpFPLeLI",
+                "thumbnail_info": {
+                    "w": 234,
+                    "h": 256,
+                    "size": 202008,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5073511885987382095",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5073511885987382095",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "😳",
+            "url": "mxc://matrix.org/eBJrUmehxBjwsGOjazHIAGBz",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 187488,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/eBJrUmehxBjwsGOjazHIAGBz",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 187488,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5075959222777151883",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5075959222777151883",
+                "emoticons": [
+                    "😳"
+                ]
+            }
+        },
+        {
+            "body": "😆",
+            "url": "mxc://matrix.org/BIiwkoGsKxAqUxkTmDksCRgC",
+            "info": {
+                "w": 169,
+                "h": 256,
+                "size": 187441,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/BIiwkoGsKxAqUxkTmDksCRgC",
+                "thumbnail_info": {
+                    "w": 169,
+                    "h": 256,
+                    "size": 187441,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5073759168729448925",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5073759168729448925",
+                "emoticons": [
+                    "😆"
+                ]
+            }
+        },
+        {
+            "body": "😋",
+            "url": "mxc://matrix.org/TAvqIrUGIFNSAAOlCEswpOGi",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 197346,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/TAvqIrUGIFNSAAOlCEswpOGi",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 197346,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5073787442499158488",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5073787442499158488",
+                "emoticons": [
+                    "😋"
+                ]
+            }
+        },
+        {
+            "body": "🥰",
+            "url": "mxc://matrix.org/ZXFNrvFYCwtjIciIBVJUCbSY",
+            "info": {
+                "w": 193,
+                "h": 256,
+                "size": 190042,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ZXFNrvFYCwtjIciIBVJUCbSY",
+                "thumbnail_info": {
+                    "w": 193,
+                    "h": 256,
+                    "size": 190042,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5073465835348034162",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5073465835348034162",
+                "emoticons": [
+                    "🥰"
+                ]
+            }
+        },
+        {
+            "body": "🥵",
+            "url": "mxc://matrix.org/JzfnAkHhWELarZJBmlWIsWTI",
+            "info": {
+                "w": 256,
+                "h": 239,
+                "size": 231429,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/JzfnAkHhWELarZJBmlWIsWTI",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 239,
+                    "size": 231429,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5075779255057514920",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5075779255057514920",
+                "emoticons": [
+                    "🥵"
+                ]
+            }
+        },
+        {
+            "body": "😩",
+            "url": "mxc://matrix.org/LADuVSSByfAgesfIzwLloMtA",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 237189,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/LADuVSSByfAgesfIzwLloMtA",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 237189,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5084567569893949960",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8281967909115265030",
+                    "short_name": "Shirayuki_Aria_1_by_luxiaoxun_bot"
+                },
+                "id": "5084567569893949960",
+                "emoticons": [
+                    "😩"
+                ]
+            }
+        }
+    ]
+}

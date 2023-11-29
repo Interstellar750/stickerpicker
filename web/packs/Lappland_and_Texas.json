@@ -1,0 +1,2185 @@
+{
+    "title": "Lappland & Texas • @tsuuii",
+    "id": "tg-1665569939223740455",
+    "net.maunium.telegram.pack": {
+        "short_name": "Lappland_and_Texas",
+        "hash": "1026742405"
+    },
+    "stickers": [
+        {
+            "body": "🌙",
+            "url": "mxc://matrix.org/utrmMKcCCakwYDdLFTyFtJBR",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 160491,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/utrmMKcCCakwYDdLFTyFtJBR",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 160491,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742711",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742711",
+                "emoticons": [
+                    "🌙",
+                    "⭐",
+                    "😴",
+                    "💤"
+                ]
+            }
+        },
+        {
+            "body": "👀",
+            "url": "mxc://matrix.org/ocYIeBkTzmdprUEvFCGXrcGo",
+            "info": {
+                "w": 236,
+                "h": 256,
+                "size": 116656,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ocYIeBkTzmdprUEvFCGXrcGo",
+                "thumbnail_info": {
+                    "w": 236,
+                    "h": 256,
+                    "size": 116656,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5242734907414821508",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5242734907414821508",
+                "emoticons": [
+                    "👀",
+                    "👁",
+                    "😐",
+                    "😶",
+                    "🧐",
+                    "😑",
+                    "😕",
+                    "🫥"
+                ]
+            }
+        },
+        {
+            "body": "😴",
+            "url": "mxc://matrix.org/ptwcrREVQHyBfWhXavKSUoWR",
+            "info": {
+                "w": 256,
+                "h": 228,
+                "size": 161522,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ptwcrREVQHyBfWhXavKSUoWR",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 228,
+                    "size": 161522,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743452",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743452",
+                "emoticons": [
+                    "🌙",
+                    "😴",
+                    "💤",
+                    "😪"
+                ]
+            }
+        },
+        {
+            "body": "😎",
+            "url": "mxc://matrix.org/fUrUCSDPNiZyyTwpaShhFGUC",
+            "info": {
+                "w": 256,
+                "h": 237,
+                "size": 155811,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/fUrUCSDPNiZyyTwpaShhFGUC",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 237,
+                    "size": 155811,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742694",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742694",
+                "emoticons": [
+                    "😎"
+                ]
+            }
+        },
+        {
+            "body": "🧐",
+            "url": "mxc://matrix.org/nPjsDgwQzlKPBcXvqtTmMFtY",
+            "info": {
+                "w": 238,
+                "h": 256,
+                "size": 190242,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/nPjsDgwQzlKPBcXvqtTmMFtY",
+                "thumbnail_info": {
+                    "w": 238,
+                    "h": 256,
+                    "size": 190242,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742798",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742798",
+                "emoticons": [
+                    "🧐",
+                    "😎",
+                    "🤓",
+                    "😏"
+                ]
+            }
+        },
+        {
+            "body": "😒",
+            "url": "mxc://matrix.org/kJOlUazdVBtYVunJiXITeZmy",
+            "info": {
+                "w": 256,
+                "h": 237,
+                "size": 165030,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/kJOlUazdVBtYVunJiXITeZmy",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 237,
+                    "size": 165030,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5384464348531928946",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5384464348531928946",
+                "emoticons": [
+                    "😶",
+                    "😒",
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "😡",
+            "url": "mxc://matrix.org/BMNANEnjsMnrmrLbaBvklRgB",
+            "info": {
+                "w": 244,
+                "h": 256,
+                "size": 166824,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/BMNANEnjsMnrmrLbaBvklRgB",
+                "thumbnail_info": {
+                    "w": 244,
+                    "h": 256,
+                    "size": 166824,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5469830671830625245",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5469830671830625245",
+                "emoticons": [
+                    "😠",
+                    "😡",
+                    "🤬",
+                    "😤",
+                    "💢"
+                ]
+            }
+        },
+        {
+            "body": "💢",
+            "url": "mxc://matrix.org/YYjdUCQwdgTJLHYPmCtunwtQ",
+            "info": {
+                "w": 256,
+                "h": 174,
+                "size": 149325,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/YYjdUCQwdgTJLHYPmCtunwtQ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 174,
+                    "size": 149325,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742696",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742696",
+                "emoticons": [
+                    "😠",
+                    "😤",
+                    "💢",
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "👇",
+            "url": "mxc://matrix.org/kHyMlhoFmhjGxlUxRDWHvvku",
+            "info": {
+                "w": 167,
+                "h": 256,
+                "size": 133765,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/kHyMlhoFmhjGxlUxRDWHvvku",
+                "thumbnail_info": {
+                    "w": 167,
+                    "h": 256,
+                    "size": 133765,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742712",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742712",
+                "emoticons": [
+                    "🤗",
+                    "👇",
+                    "👈"
+                ]
+            }
+        },
+        {
+            "body": "😪",
+            "url": "mxc://matrix.org/hpxkXpTnhisKdwQZTVvxKlKg",
+            "info": {
+                "w": 256,
+                "h": 237,
+                "size": 155600,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/hpxkXpTnhisKdwQZTVvxKlKg",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 237,
+                    "size": 155600,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742721",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742721",
+                "emoticons": [
+                    "😪"
+                ]
+            }
+        },
+        {
+            "body": "👍",
+            "url": "mxc://matrix.org/IiZGpbRdbAFfMgLsiZalsZvG",
+            "info": {
+                "w": 256,
+                "h": 231,
+                "size": 141663,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/IiZGpbRdbAFfMgLsiZalsZvG",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 231,
+                    "size": 141663,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5384402883254955393",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5384402883254955393",
+                "emoticons": [
+                    "👍",
+                    "👌"
+                ]
+            }
+        },
+        {
+            "body": "🤔",
+            "url": "mxc://matrix.org/VaKKBtvquVhHmxDlhesBpJmG",
+            "info": {
+                "w": 256,
+                "h": 208,
+                "size": 118311,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/VaKKBtvquVhHmxDlhesBpJmG",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 208,
+                    "size": 118311,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743261",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743261",
+                "emoticons": [
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "💡",
+            "url": "mxc://matrix.org/fpNYPvUldtsfGtGXhepsAHwN",
+            "info": {
+                "w": 256,
+                "h": 213,
+                "size": 133930,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/fpNYPvUldtsfGtGXhepsAHwN",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 213,
+                    "size": 133930,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743262",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743262",
+                "emoticons": [
+                    "🤔",
+                    "💡"
+                ]
+            }
+        },
+        {
+            "body": "⁉️",
+            "url": "mxc://matrix.org/MNRSRoRLrgjPSeJKNwmICdIi",
+            "info": {
+                "w": 256,
+                "h": 251,
+                "size": 130929,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/MNRSRoRLrgjPSeJKNwmICdIi",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 251,
+                    "size": 130929,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5470132943038985927",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5470132943038985927",
+                "emoticons": [
+                    "😐",
+                    "😶",
+                    "😑",
+                    "⁉",
+                    "🤨",
+                    "❔",
+                    "❓"
+                ]
+            }
+        },
+        {
+            "body": "👀",
+            "url": "mxc://matrix.org/VeXiiJJySdETSvJccHQFtWTE",
+            "info": {
+                "w": 256,
+                "h": 220,
+                "size": 139875,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/VeXiiJJySdETSvJccHQFtWTE",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 220,
+                    "size": 139875,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743361",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743361",
+                "emoticons": [
+                    "👀",
+                    "👁",
+                    "🤩",
+                    "🙂"
+                ]
+            }
+        },
+        {
+            "body": "🖐",
+            "url": "mxc://matrix.org/yhUdvvoEZniqMEQCzqAwosNk",
+            "info": {
+                "w": 256,
+                "h": 161,
+                "size": 101143,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/yhUdvvoEZniqMEQCzqAwosNk",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 161,
+                    "size": 101143,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5469846588979431924",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5469846588979431924",
+                "emoticons": [
+                    "🖐",
+                    "👋"
+                ]
+            }
+        },
+        {
+            "body": "🍉",
+            "url": "mxc://matrix.org/VuCWQbrYMfLigrJiCWNxytAO",
+            "info": {
+                "w": 245,
+                "h": 256,
+                "size": 125631,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/VuCWQbrYMfLigrJiCWNxytAO",
+                "thumbnail_info": {
+                    "w": 245,
+                    "h": 256,
+                    "size": 125631,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743449",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743449",
+                "emoticons": [
+                    "🍉"
+                ]
+            }
+        },
+        {
+            "body": "🍬",
+            "url": "mxc://matrix.org/jYVfVoKconDmYsurMMTTEyWT",
+            "info": {
+                "w": 187,
+                "h": 256,
+                "size": 162804,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/jYVfVoKconDmYsurMMTTEyWT",
+                "thumbnail_info": {
+                    "w": 187,
+                    "h": 256,
+                    "size": 162804,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743135",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743135",
+                "emoticons": [
+                    "🍬",
+                    "🍫",
+                    "🍭",
+                    "😋"
+                ]
+            }
+        },
+        {
+            "body": "😪",
+            "url": "mxc://matrix.org/SFEFRKbBBpUjWLmYAUGjcxkl",
+            "info": {
+                "w": 232,
+                "h": 256,
+                "size": 146016,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/SFEFRKbBBpUjWLmYAUGjcxkl",
+                "thumbnail_info": {
+                    "w": 232,
+                    "h": 256,
+                    "size": 146016,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5470124091111390134",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5470124091111390134",
+                "emoticons": [
+                    "😴",
+                    "💤",
+                    "😪",
+                    "🥱",
+                    "🛏"
+                ]
+            }
+        },
+        {
+            "body": "💝",
+            "url": "mxc://matrix.org/GpNkUapFcErVclTxgugulWEC",
+            "info": {
+                "w": 256,
+                "h": 221,
+                "size": 161300,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/GpNkUapFcErVclTxgugulWEC",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 221,
+                    "size": 161300,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743136",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743136",
+                "emoticons": [
+                    "💝",
+                    "❤",
+                    "💕",
+                    "🥰",
+                    "😍",
+                    "😳"
+                ]
+            }
+        },
+        {
+            "body": "🎂",
+            "url": "mxc://matrix.org/tTNFHQADCLgjBLcIZuDTzUZU",
+            "info": {
+                "w": 256,
+                "h": 252,
+                "size": 189701,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/tTNFHQADCLgjBLcIZuDTzUZU",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 252,
+                    "size": 189701,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742733",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742733",
+                "emoticons": [
+                    "🎂",
+                    "🍰"
+                ]
+            }
+        },
+        {
+            "body": "😋",
+            "url": "mxc://matrix.org/uzYaIqGPIvyBXlKBHQOVCFeG",
+            "info": {
+                "w": 256,
+                "h": 231,
+                "size": 141076,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/uzYaIqGPIvyBXlKBHQOVCFeG",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 231,
+                    "size": 141076,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5470110287086498985",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5470110287086498985",
+                "emoticons": [
+                    "😋",
+                    "🍽",
+                    "🍴"
+                ]
+            }
+        },
+        {
+            "body": "✍️",
+            "url": "mxc://matrix.org/cQmeQEPRzQZdMjmCXWBvQVht",
+            "info": {
+                "w": 158,
+                "h": 256,
+                "size": 150792,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/cQmeQEPRzQZdMjmCXWBvQVht",
+                "thumbnail_info": {
+                    "w": 158,
+                    "h": 256,
+                    "size": 150792,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743453",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743453",
+                "emoticons": [
+                    "🍽",
+                    "✍",
+                    "📝"
+                ]
+            }
+        },
+        {
+            "body": "😴",
+            "url": "mxc://matrix.org/xyjjCdVHYIDYScVGItbHVJNs",
+            "info": {
+                "w": 256,
+                "h": 242,
+                "size": 147430,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/xyjjCdVHYIDYScVGItbHVJNs",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 242,
+                    "size": 147430,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5470055122526550352",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5470055122526550352",
+                "emoticons": [
+                    "🌙",
+                    "😴",
+                    "💤",
+                    "😪",
+                    "🥱",
+                    "🛏"
+                ]
+            }
+        },
+        {
+            "body": "🐱",
+            "url": "mxc://matrix.org/qdKzaErDdrFjyNvgpOvohRDY",
+            "info": {
+                "w": 250,
+                "h": 256,
+                "size": 182419,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/qdKzaErDdrFjyNvgpOvohRDY",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 256,
+                    "size": 182419,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5382320309447701528",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5382320309447701528",
+                "emoticons": [
+                    "😐",
+                    "🥰",
+                    "🐱",
+                    "😌"
+                ]
+            }
+        },
+        {
+            "body": "😩",
+            "url": "mxc://matrix.org/lDHyxGWVVoMHSIdwHTpMrNgC",
+            "info": {
+                "w": 256,
+                "h": 223,
+                "size": 163891,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/lDHyxGWVVoMHSIdwHTpMrNgC",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 223,
+                    "size": 163891,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5467543429946816998",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5467543429946816998",
+                "emoticons": [
+                    "😩",
+                    "😫",
+                    "🗂",
+                    "🗃",
+                    "📦"
+                ]
+            }
+        },
+        {
+            "body": "😴",
+            "url": "mxc://matrix.org/iMzjnzlWRfFSpzOmeviOIDFS",
+            "info": {
+                "w": 246,
+                "h": 256,
+                "size": 165850,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/iMzjnzlWRfFSpzOmeviOIDFS",
+                "thumbnail_info": {
+                    "w": 246,
+                    "h": 256,
+                    "size": 165850,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742728",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742728",
+                "emoticons": [
+                    "🌙",
+                    "😴",
+                    "😪",
+                    "☀"
+                ]
+            }
+        },
+        {
+            "body": "😴",
+            "url": "mxc://matrix.org/ukDDTkOHmOVzWDmZawSEJUcL",
+            "info": {
+                "w": 256,
+                "h": 208,
+                "size": 163939,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ukDDTkOHmOVzWDmZawSEJUcL",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 208,
+                    "size": 163939,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743147",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743147",
+                "emoticons": [
+                    "🌙",
+                    "😴",
+                    "💤",
+                    "😪"
+                ]
+            }
+        },
+        {
+            "body": "😜",
+            "url": "mxc://matrix.org/GvInIuslXrEpWtAwNcauERvh",
+            "info": {
+                "w": 256,
+                "h": 229,
+                "size": 174379,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/GvInIuslXrEpWtAwNcauERvh",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 229,
+                    "size": 174379,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742698",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742698",
+                "emoticons": [
+                    "😋",
+                    "😜",
+                    "😛",
+                    "😝"
+                ]
+            }
+        },
+        {
+            "body": "😎",
+            "url": "mxc://matrix.org/inwsPupaDFFsIqpcSGLUtVMF",
+            "info": {
+                "w": 256,
+                "h": 244,
+                "size": 182300,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/inwsPupaDFFsIqpcSGLUtVMF",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 244,
+                    "size": 182300,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742699",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742699",
+                "emoticons": [
+                    "😎"
+                ]
+            }
+        },
+        {
+            "body": "☺️",
+            "url": "mxc://matrix.org/gTCCNRpddmueQFXWMOpsKHaJ",
+            "info": {
+                "w": 256,
+                "h": 244,
+                "size": 204188,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/gTCCNRpddmueQFXWMOpsKHaJ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 244,
+                    "size": 204188,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742700",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742700",
+                "emoticons": [
+                    "😳",
+                    "☺"
+                ]
+            }
+        },
+        {
+            "body": "🤔",
+            "url": "mxc://matrix.org/SsSblwfljlWpRomCbmauYPLJ",
+            "info": {
+                "w": 256,
+                "h": 250,
+                "size": 202309,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/SsSblwfljlWpRomCbmauYPLJ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 250,
+                    "size": 202309,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742701",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742701",
+                "emoticons": [
+                    "🤔",
+                    "💭"
+                ]
+            }
+        },
+        {
+            "body": "😰",
+            "url": "mxc://matrix.org/MafDQumUvuPDnhjRHvQepWdN",
+            "info": {
+                "w": 256,
+                "h": 214,
+                "size": 159511,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/MafDQumUvuPDnhjRHvQepWdN",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 214,
+                    "size": 159511,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742702",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742702",
+                "emoticons": [
+                    "😰",
+                    "😨",
+                    "☹",
+                    "😞",
+                    "😖",
+                    "😣"
+                ]
+            }
+        },
+        {
+            "body": "😏",
+            "url": "mxc://matrix.org/HrZbITwYhxiKGeAppeZuJJtv",
+            "info": {
+                "w": 256,
+                "h": 216,
+                "size": 160779,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/HrZbITwYhxiKGeAppeZuJJtv",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 216,
+                    "size": 160779,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742703",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742703",
+                "emoticons": [
+                    "🧐",
+                    "😏",
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "💬",
+            "url": "mxc://matrix.org/gHDlgAkFsUgmPBYxOgOfHYiB",
+            "info": {
+                "w": 256,
+                "h": 213,
+                "size": 152534,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/gHDlgAkFsUgmPBYxOgOfHYiB",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 213,
+                    "size": 152534,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742704",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742704",
+                "emoticons": [
+                    "💬"
+                ]
+            }
+        },
+        {
+            "body": "❔",
+            "url": "mxc://matrix.org/UQqjNcBehOnpGSPFOjkWytJy",
+            "info": {
+                "w": 256,
+                "h": 224,
+                "size": 169862,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/UQqjNcBehOnpGSPFOjkWytJy",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 224,
+                    "size": 169862,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742707",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742707",
+                "emoticons": [
+                    "❔",
+                    "❓"
+                ]
+            }
+        },
+        {
+            "body": "😒",
+            "url": "mxc://matrix.org/TDLloXVhvJoMhkHfAghpSNGm",
+            "info": {
+                "w": 256,
+                "h": 228,
+                "size": 184980,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/TDLloXVhvJoMhkHfAghpSNGm",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 228,
+                    "size": 184980,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742708",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742708",
+                "emoticons": [
+                    "😒",
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "💕",
+            "url": "mxc://matrix.org/CtsMvXbcGaFvdJOZyWGJZrbK",
+            "info": {
+                "w": 256,
+                "h": 211,
+                "size": 192411,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/CtsMvXbcGaFvdJOZyWGJZrbK",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 211,
+                    "size": 192411,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742710",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742710",
+                "emoticons": [
+                    "💝",
+                    "❤",
+                    "💕",
+                    "🥰",
+                    "😍",
+                    "💞",
+                    "💓",
+                    "💗",
+                    "💖",
+                    "💘",
+                    "😘"
+                ]
+            }
+        },
+        {
+            "body": "🤗",
+            "url": "mxc://matrix.org/ogKpVmnzkCTfxpJIrzZraTeL",
+            "info": {
+                "w": 256,
+                "h": 199,
+                "size": 188063,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ogKpVmnzkCTfxpJIrzZraTeL",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 199,
+                    "size": 188063,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743364",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743364",
+                "emoticons": [
+                    "🤗",
+                    "😋",
+                    "❤",
+                    "😍",
+                    "😘"
+                ]
+            }
+        },
+        {
+            "body": "🤓",
+            "url": "mxc://matrix.org/WNVzPNRXUknoWTTQlIULaIyF",
+            "info": {
+                "w": 256,
+                "h": 250,
+                "size": 181698,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/WNVzPNRXUknoWTTQlIULaIyF",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 250,
+                    "size": 181698,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742730",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742730",
+                "emoticons": [
+                    "🤓",
+                    "😌"
+                ]
+            }
+        },
+        {
+            "body": "🧐",
+            "url": "mxc://matrix.org/fygJnfaUZKvVlGwkVfyTghQL",
+            "info": {
+                "w": 256,
+                "h": 230,
+                "size": 187480,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/fygJnfaUZKvVlGwkVfyTghQL",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 230,
+                    "size": 187480,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742799",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742799",
+                "emoticons": [
+                    "🧐",
+                    "😎",
+                    "🤓",
+                    "😏"
+                ]
+            }
+        },
+        {
+            "body": "🗣",
+            "url": "mxc://matrix.org/venWNwGJXEgpigdmbWaDgdgh",
+            "info": {
+                "w": 224,
+                "h": 256,
+                "size": 154739,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/venWNwGJXEgpigdmbWaDgdgh",
+                "thumbnail_info": {
+                    "w": 224,
+                    "h": 256,
+                    "size": 154739,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743451",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743451",
+                "emoticons": [
+                    "🗣"
+                ]
+            }
+        },
+        {
+            "body": "☕️",
+            "url": "mxc://matrix.org/enKeLkxVpwDbIckrLMvZmnLt",
+            "info": {
+                "w": 218,
+                "h": 256,
+                "size": 161259,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/enKeLkxVpwDbIckrLMvZmnLt",
+                "thumbnail_info": {
+                    "w": 218,
+                    "h": 256,
+                    "size": 161259,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743134",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743134",
+                "emoticons": [
+                    "☕"
+                ]
+            }
+        },
+        {
+            "body": "😉",
+            "url": "mxc://matrix.org/NnkthQoRaTkhcAtuIqsNJdFy",
+            "info": {
+                "w": 256,
+                "h": 220,
+                "size": 155537,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/NnkthQoRaTkhcAtuIqsNJdFy",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 220,
+                    "size": 155537,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743360",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743360",
+                "emoticons": [
+                    "👀",
+                    "😉",
+                    "✨"
+                ]
+            }
+        },
+        {
+            "body": "🍉",
+            "url": "mxc://matrix.org/BPVvQxKUpllFAVMDutOkakZy",
+            "info": {
+                "w": 255,
+                "h": 256,
+                "size": 145691,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/BPVvQxKUpllFAVMDutOkakZy",
+                "thumbnail_info": {
+                    "w": 255,
+                    "h": 256,
+                    "size": 145691,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743450",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743450",
+                "emoticons": [
+                    "🍉"
+                ]
+            }
+        },
+        {
+            "body": "🖐",
+            "url": "mxc://matrix.org/APtfSRbXXqDJoZapAAxGatsA",
+            "info": {
+                "w": 256,
+                "h": 156,
+                "size": 107819,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/APtfSRbXXqDJoZapAAxGatsA",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 156,
+                    "size": 107819,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5382340405599678155",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5382340405599678155",
+                "emoticons": [
+                    "🖐",
+                    "👋"
+                ]
+            }
+        },
+        {
+            "body": "🎁",
+            "url": "mxc://matrix.org/cYJFOSQZSpeTKmubeXrerfin",
+            "info": {
+                "w": 243,
+                "h": 256,
+                "size": 201215,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/cYJFOSQZSpeTKmubeXrerfin",
+                "thumbnail_info": {
+                    "w": 243,
+                    "h": 256,
+                    "size": 201215,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742723",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742723",
+                "emoticons": [
+                    "🎁"
+                ]
+            }
+        },
+        {
+            "body": "🎅",
+            "url": "mxc://matrix.org/cpPqWVFkBKAlJHJicdqLZKXp",
+            "info": {
+                "w": 256,
+                "h": 244,
+                "size": 256940,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/cpPqWVFkBKAlJHJicdqLZKXp",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 244,
+                    "size": 256940,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742713",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742713",
+                "emoticons": [
+                    "🎅",
+                    "🤶"
+                ]
+            }
+        },
+        {
+            "body": "🍽",
+            "url": "mxc://matrix.org/RzBAAGYpPkizHFhWxNllMUMd",
+            "info": {
+                "w": 256,
+                "h": 231,
+                "size": 130194,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/RzBAAGYpPkizHFhWxNllMUMd",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 231,
+                    "size": 130194,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5467610495861142369",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5467610495861142369",
+                "emoticons": [
+                    "😋",
+                    "🍽",
+                    "🍴"
+                ]
+            }
+        },
+        {
+            "body": "🍽",
+            "url": "mxc://matrix.org/sobDLSemhgshUNEPVWYcJiIT",
+            "info": {
+                "w": 190,
+                "h": 256,
+                "size": 168666,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/sobDLSemhgshUNEPVWYcJiIT",
+                "thumbnail_info": {
+                    "w": 190,
+                    "h": 256,
+                    "size": 168666,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743454",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743454",
+                "emoticons": [
+                    "🍽"
+                ]
+            }
+        },
+        {
+            "body": "☀️",
+            "url": "mxc://matrix.org/SxoHqyUqEIjmFUqPuyoXbZqH",
+            "info": {
+                "w": 256,
+                "h": 242,
+                "size": 177300,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/SxoHqyUqEIjmFUqPuyoXbZqH",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 242,
+                    "size": 177300,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5469950514303088522",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5469950514303088522",
+                "emoticons": [
+                    "☀",
+                    "🏖",
+                    "⛱"
+                ]
+            }
+        },
+        {
+            "body": "💌",
+            "url": "mxc://matrix.org/jBulPdXkWZSvugCunGTJnUQf",
+            "info": {
+                "w": 256,
+                "h": 203,
+                "size": 145436,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/jBulPdXkWZSvugCunGTJnUQf",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 203,
+                    "size": 145436,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5467410659622796705",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5467410659622796705",
+                "emoticons": [
+                    "💝",
+                    "❤",
+                    "💌"
+                ]
+            }
+        },
+        {
+            "body": "😴",
+            "url": "mxc://matrix.org/ofrwAyeJXgBuXwcEDCOGJWbR",
+            "info": {
+                "w": 256,
+                "h": 234,
+                "size": 161230,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ofrwAyeJXgBuXwcEDCOGJWbR",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 234,
+                    "size": 161230,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5470093708512735065",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5470093708512735065",
+                "emoticons": [
+                    "🌙",
+                    "😴",
+                    "💤",
+                    "😪",
+                    "🥱",
+                    "🛏"
+                ]
+            }
+        },
+        {
+            "body": "😴",
+            "url": "mxc://matrix.org/fhVpcNLJtbDzgDUSiHsNvjTe",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 228083,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/fhVpcNLJtbDzgDUSiHsNvjTe",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 228083,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742709",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742709",
+                "emoticons": [
+                    "😴",
+                    "💤",
+                    "😪"
+                ]
+            }
+        },
+        {
+            "body": "😴",
+            "url": "mxc://matrix.org/XaxGDFhcLchUZMvDVJvvgYyv",
+            "info": {
+                "w": 256,
+                "h": 204,
+                "size": 153553,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/XaxGDFhcLchUZMvDVJvvgYyv",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 204,
+                    "size": 153553,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742697",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742697",
+                "emoticons": [
+                    "😴",
+                    "💤",
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "😴",
+            "url": "mxc://matrix.org/fapHKglpjRwKTcpUSLXXsyFR",
+            "info": {
+                "w": 256,
+                "h": 160,
+                "size": 113312,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/fapHKglpjRwKTcpUSLXXsyFR",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 160,
+                    "size": 113312,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742934",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742934",
+                "emoticons": [
+                    "🌙",
+                    "😴",
+                    "💤",
+                    "😪"
+                ]
+            }
+        },
+        {
+            "body": "🤗",
+            "url": "mxc://matrix.org/BUOykqFtcZnrITROVZJrApcz",
+            "info": {
+                "w": 256,
+                "h": 180,
+                "size": 171652,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/BUOykqFtcZnrITROVZJrApcz",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 180,
+                    "size": 171652,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5469914857484594984",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5469914857484594984",
+                "emoticons": [
+                    "🤗",
+                    "❤",
+                    "🫂"
+                ]
+            }
+        },
+        {
+            "body": "🤗",
+            "url": "mxc://matrix.org/lqSKPDHjaePjNvdhbRMItzRh",
+            "info": {
+                "w": 256,
+                "h": 191,
+                "size": 169007,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/lqSKPDHjaePjNvdhbRMItzRh",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 191,
+                    "size": 169007,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5469989478246398937",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5469989478246398937",
+                "emoticons": [
+                    "🤗",
+                    "❤",
+                    "☺",
+                    "🫂"
+                ]
+            }
+        },
+        {
+            "body": "😘",
+            "url": "mxc://matrix.org/aqsZxmBEiuLTfYyWyVrmwiBR",
+            "info": {
+                "w": 256,
+                "h": 188,
+                "size": 144096,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/aqsZxmBEiuLTfYyWyVrmwiBR",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 188,
+                    "size": 144096,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743455",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743455",
+                "emoticons": [
+                    "😍",
+                    "😘",
+                    "😚"
+                ]
+            }
+        },
+        {
+            "body": "🤗",
+            "url": "mxc://matrix.org/KWwLxZssbMzJBpCfDstZvXwg",
+            "info": {
+                "w": 256,
+                "h": 159,
+                "size": 157248,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/KWwLxZssbMzJBpCfDstZvXwg",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 159,
+                    "size": 157248,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5382049971321187577",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5382049971321187577",
+                "emoticons": [
+                    "🤗",
+                    "❤",
+                    "🥰",
+                    "😍"
+                ]
+            }
+        },
+        {
+            "body": "🤤",
+            "url": "mxc://matrix.org/CFaUDCXplOHrumTsugRxKFwD",
+            "info": {
+                "w": 256,
+                "h": 205,
+                "size": 179836,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/CFaUDCXplOHrumTsugRxKFwD",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 205,
+                    "size": 179836,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742714",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742714",
+                "emoticons": [
+                    "😋",
+                    "😍",
+                    "😘",
+                    "🤤",
+                    "👅",
+                    "💋"
+                ]
+            }
+        },
+        {
+            "body": "😚",
+            "url": "mxc://matrix.org/xKnTndhNCyKvUvcgAtsCekZZ",
+            "info": {
+                "w": 256,
+                "h": 187,
+                "size": 183972,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/xKnTndhNCyKvUvcgAtsCekZZ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 187,
+                    "size": 183972,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742716",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742716",
+                "emoticons": [
+                    "😍",
+                    "😳",
+                    "😘",
+                    "😚",
+                    "💋"
+                ]
+            }
+        },
+        {
+            "body": "❤️",
+            "url": "mxc://matrix.org/LokFNrrqRnZEZaWElojYsygc",
+            "info": {
+                "w": 256,
+                "h": 162,
+                "size": 168743,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/LokFNrrqRnZEZaWElojYsygc",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 162,
+                    "size": 168743,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742720",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742720",
+                "emoticons": [
+                    "🤗",
+                    "❤",
+                    "💕",
+                    "😍",
+                    "💞",
+                    "😘",
+                    "♥"
+                ]
+            }
+        },
+        {
+            "body": "🤗",
+            "url": "mxc://matrix.org/mgaOxyvwNBXDuqMsnOVuTLJk",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 215845,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/mgaOxyvwNBXDuqMsnOVuTLJk",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 215845,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742722",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742722",
+                "emoticons": [
+                    "🤗",
+                    "❤",
+                    "🥰",
+                    "😍",
+                    "😘",
+                    "😚",
+                    "👩‍❤‍👩",
+                    "👩‍❤‍💋‍👩"
+                ]
+            }
+        },
+        {
+            "body": "🤗",
+            "url": "mxc://matrix.org/hImOOlhFFjHMkyLyYXLFsWnu",
+            "info": {
+                "w": 183,
+                "h": 256,
+                "size": 182476,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/hImOOlhFFjHMkyLyYXLFsWnu",
+                "thumbnail_info": {
+                    "w": 183,
+                    "h": 256,
+                    "size": 182476,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742725",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742725",
+                "emoticons": [
+                    "🤗",
+                    "❤",
+                    "💕",
+                    "😍"
+                ]
+            }
+        },
+        {
+            "body": "😍",
+            "url": "mxc://matrix.org/KgJkuFyXroThwnJSdoqyBZYO",
+            "info": {
+                "w": 256,
+                "h": 206,
+                "size": 188835,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/KgJkuFyXroThwnJSdoqyBZYO",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 206,
+                    "size": 188835,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223742828",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223742828",
+                "emoticons": [
+                    "🤗",
+                    "❤",
+                    "🥰",
+                    "😍",
+                    "👩‍❤‍👩"
+                ]
+            }
+        },
+        {
+            "body": "🛁",
+            "url": "mxc://matrix.org/UUfxGKEEmYMeExVHIMEIBpbZ",
+            "info": {
+                "w": 256,
+                "h": 197,
+                "size": 151810,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/UUfxGKEEmYMeExVHIMEIBpbZ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 197,
+                    "size": 151810,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5384403587629591777",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5384403587629591777",
+                "emoticons": [
+                    "🛁",
+                    "🛀",
+                    "🧼",
+                    "🧴",
+                    "🧽",
+                    "🧖‍♀",
+                    "🫧"
+                ]
+            }
+        },
+        {
+            "body": "🍿",
+            "url": "mxc://matrix.org/YqBlgTtkEmGUJzqqSTTIspRn",
+            "info": {
+                "w": 256,
+                "h": 148,
+                "size": 186071,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/YqBlgTtkEmGUJzqqSTTIspRn",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 148,
+                    "size": 186071,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5469652233119349328",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "5469652233119349328",
+                "emoticons": [
+                    "🍿",
+                    "🎦"
+                ]
+            }
+        },
+        {
+            "body": "©️",
+            "url": "mxc://matrix.org/IwpXJEwckONpCNmFfzvNNQOV",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 81859,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/IwpXJEwckONpCNmFfzvNNQOV",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 81859,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1665569939223743443",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1665569939223740455",
+                    "short_name": "Lappland_and_Texas"
+                },
+                "id": "1665569939223743443",
+                "emoticons": [
+                    "©"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "packs": [
+    "mafuyu_twitch_01_LVfE.json",
+    "Shinnyan.json",
+    "mashiro_kanon.json",
+    "Shanoa_Vtuber.json",
+    "lulu_official_by_luxiaoxun_bot.json",
+    "hanamaruvv.json",
+    "C_chan_2.json",
+    "Lappland_and_Texas.json",
+    "Shirayuki_Aria_1_by_luxiaoxun_bot.json",
+    "hololive_EN.json",
+    "NekoyashikiRiri.json",
+    "Necora_Nyaru.json",
+    "Myadestes_6_HoshinaSuzu.json",
+    "Black_cat_Eve_line.json",
+    "Moodylinecreditless.json",
+    "Gabriel_DropOut.json",
+    "Smol_Ame_emote.json",
+    "uohhhhh.json",
+    "http_cats_full.json",
+    "shiweishu.json",
+    "qianshibu.json",
+    "chocolate_leba.json",
+    "yunlanglang.json",
+    "xingyubuding.json",
+    "jianglan_chan.json",
+    "pingxuechan.json"
+  ],
+  "homeserver_url": "https://matrix.org"
+}

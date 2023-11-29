@@ -1,0 +1,938 @@
+{
+    "title": "巧克力列巴 @zhaxia_cn",
+    "id": "tg-4209876048168353773",
+    "net.maunium.telegram.pack": {
+        "short_name": "chocolate_leba",
+        "hash": "34235268"
+    },
+    "stickers": [
+        {
+            "body": "😠",
+            "url": "mxc://matrix.org/XXNDeHqeihFayzVwbgYzgMzC",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 258344,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/XXNDeHqeihFayzVwbgYzgMzC",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 258344,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6258121311411767951",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6258121311411767951",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "🥲",
+            "url": "mxc://matrix.org/JjmHLCRDBjwRjfTmyVFbsuMs",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 240564,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/JjmHLCRDBjwRjfTmyVFbsuMs",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 240564,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6258308580575807599",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6258308580575807599",
+                "emoticons": [
+                    "🥲"
+                ]
+            }
+        },
+        {
+            "body": "😡",
+            "url": "mxc://matrix.org/dMahPbmZaCMfWtzXagBCEtZz",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 257234,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/dMahPbmZaCMfWtzXagBCEtZz",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 257234,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6258072748216551739",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6258072748216551739",
+                "emoticons": [
+                    "😡"
+                ]
+            }
+        },
+        {
+            "body": "🖕",
+            "url": "mxc://matrix.org/nyxYMgAljtEDiKeonmCJJzlY",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 230668,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/nyxYMgAljtEDiKeonmCJJzlY",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 230668,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6257998767404878069",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6257998767404878069",
+                "emoticons": [
+                    "🖕"
+                ]
+            }
+        },
+        {
+            "body": "😳",
+            "url": "mxc://matrix.org/RufKsOeKJQxRMasYpcSfpmBr",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 242872,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/RufKsOeKJQxRMasYpcSfpmBr",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 242872,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6258201897883143363",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6258201897883143363",
+                "emoticons": [
+                    "😳"
+                ]
+            }
+        },
+        {
+            "body": "😆",
+            "url": "mxc://matrix.org/ctnKKyKacudtWLphXmMcHWoo",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 284559,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ctnKKyKacudtWLphXmMcHWoo",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 284559,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6258069518401144974",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6258069518401144974",
+                "emoticons": [
+                    "😆"
+                ]
+            }
+        },
+        {
+            "body": "😇",
+            "url": "mxc://matrix.org/bPnjTHnkvVwJUBWFMNxcGkDV",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 231253,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/bPnjTHnkvVwJUBWFMNxcGkDV",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 231253,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6257766559998020213",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6257766559998020213",
+                "emoticons": [
+                    "😇"
+                ]
+            }
+        },
+        {
+            "body": "😅",
+            "url": "mxc://matrix.org/ufgPnEmUUPBPEbwOSfTVonPR",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 228170,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ufgPnEmUUPBPEbwOSfTVonPR",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 228170,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6257842881566870759",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6257842881566870759",
+                "emoticons": [
+                    "😅"
+                ]
+            }
+        },
+        {
+            "body": "🫠",
+            "url": "mxc://matrix.org/FUkSPnlpuGvlsboggOtAsjHU",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 260595,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/FUkSPnlpuGvlsboggOtAsjHU",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 260595,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6258225820850981835",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6258225820850981835",
+                "emoticons": [
+                    "🫠"
+                ]
+            }
+        },
+        {
+            "body": "😗",
+            "url": "mxc://matrix.org/DccjfnTdlFqrrEiRnmnGxGAo",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 252548,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/DccjfnTdlFqrrEiRnmnGxGAo",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 252548,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6258030563047770517",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6258030563047770517",
+                "emoticons": [
+                    "😗"
+                ]
+            }
+        },
+        {
+            "body": "😆",
+            "url": "mxc://matrix.org/lRMnbosmaFeBQInvVMgZFQLm",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 222643,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/lRMnbosmaFeBQInvVMgZFQLm",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 222643,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6257800747937696374",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6257800747937696374",
+                "emoticons": [
+                    "😆"
+                ]
+            }
+        },
+        {
+            "body": "😏",
+            "url": "mxc://matrix.org/HPhKVxysqDDaLtmNhdfILvcC",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 237380,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/HPhKVxysqDDaLtmNhdfILvcC",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 237380,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6257948821230193646",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6257948821230193646",
+                "emoticons": [
+                    "😏"
+                ]
+            }
+        },
+        {
+            "body": "😘",
+            "url": "mxc://matrix.org/ZiGYmmmNsViIMmmWfgGGjoQs",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 246236,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ZiGYmmmNsViIMmmWfgGGjoQs",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 246236,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6258225468663663398",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6258225468663663398",
+                "emoticons": [
+                    "😘"
+                ]
+            }
+        },
+        {
+            "body": "👍",
+            "url": "mxc://matrix.org/fsOuUrkqAcSgXYEuSAyZZGwI",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 231773,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/fsOuUrkqAcSgXYEuSAyZZGwI",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 231773,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6258229136565734532",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6258229136565734532",
+                "emoticons": [
+                    "👍"
+                ]
+            }
+        },
+        {
+            "body": "😸",
+            "url": "mxc://matrix.org/YOXEFqWBRswchAltdZhHMnqi",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 252331,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/YOXEFqWBRswchAltdZhHMnqi",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 252331,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6258260064625232777",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6258260064625232777",
+                "emoticons": [
+                    "😸"
+                ]
+            }
+        },
+        {
+            "body": "😻",
+            "url": "mxc://matrix.org/kbWeErzZuzQkUAwdkPTCkenu",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 239286,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/kbWeErzZuzQkUAwdkPTCkenu",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 239286,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6258041132962286190",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6258041132962286190",
+                "emoticons": [
+                    "😻"
+                ]
+            }
+        },
+        {
+            "body": "🥰",
+            "url": "mxc://matrix.org/touHQywAzaiVzZaGQjLLJpMZ",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 257755,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/touHQywAzaiVzZaGQjLLJpMZ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 257755,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6296543702294727295",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6296543702294727295",
+                "emoticons": [
+                    "🥰"
+                ]
+            }
+        },
+        {
+            "body": "🤩",
+            "url": "mxc://matrix.org/aNKVcjgRCOMzFqxyXCgSAhgO",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 237037,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/aNKVcjgRCOMzFqxyXCgSAhgO",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 237037,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6294081131255958814",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6294081131255958814",
+                "emoticons": [
+                    "🤩"
+                ]
+            }
+        },
+        {
+            "body": "🤔",
+            "url": "mxc://matrix.org/UZrNdzdjTcRbNISIdvzwVWzw",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 240749,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/UZrNdzdjTcRbNISIdvzwVWzw",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 240749,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6296244141210733036",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6296244141210733036",
+                "emoticons": [
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "😀",
+            "url": "mxc://matrix.org/RxVXvhNyRojDMxDCqpnCAGJS",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 258111,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/RxVXvhNyRojDMxDCqpnCAGJS",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 258111,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6296567376154462498",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6296567376154462498",
+                "emoticons": [
+                    "😀"
+                ]
+            }
+        },
+        {
+            "body": "😆",
+            "url": "mxc://matrix.org/CUVltVJgfkMrvDmNaEWYJtyC",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 227113,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/CUVltVJgfkMrvDmNaEWYJtyC",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 227113,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6293807945566129086",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6293807945566129086",
+                "emoticons": [
+                    "😆"
+                ]
+            }
+        },
+        {
+            "body": "😊",
+            "url": "mxc://matrix.org/MrsHHCGIcASxOErJkeaICzUJ",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 233575,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/MrsHHCGIcASxOErJkeaICzUJ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 233575,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6293930068666223341",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6293930068666223341",
+                "emoticons": [
+                    "😊"
+                ]
+            }
+        },
+        {
+            "body": "😋",
+            "url": "mxc://matrix.org/WWYICnvxvkdRiWmaayvwbHKH",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 250833,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/WWYICnvxvkdRiWmaayvwbHKH",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 250833,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6296289508950280867",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6296289508950280867",
+                "emoticons": [
+                    "😋"
+                ]
+            }
+        },
+        {
+            "body": "🤯",
+            "url": "mxc://matrix.org/YjYnTmsKZcSLmDFUlRjhHLzr",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 245896,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/YjYnTmsKZcSLmDFUlRjhHLzr",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 245896,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6293842550117633096",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6293842550117633096",
+                "emoticons": [
+                    "🤯"
+                ]
+            }
+        },
+        {
+            "body": "🥺",
+            "url": "mxc://matrix.org/obuTCKDDWXAyaSVvMIewcTAp",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 234285,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/obuTCKDDWXAyaSVvMIewcTAp",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 234285,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6296086859508353667",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6296086859508353667",
+                "emoticons": [
+                    "🥺"
+                ]
+            }
+        },
+        {
+            "body": "🔫",
+            "url": "mxc://matrix.org/nBlZfbxZyVxqnbOaqmpluote",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 266940,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/nBlZfbxZyVxqnbOaqmpluote",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 266940,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6294143026029660892",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6294143026029660892",
+                "emoticons": [
+                    "🔫"
+                ]
+            }
+        },
+        {
+            "body": "😥",
+            "url": "mxc://matrix.org/ZmbGsUBBNLxrKvUQwoOUGkWF",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 243399,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/ZmbGsUBBNLxrKvUQwoOUGkWF",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 243399,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6296146168711743936",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6296146168711743936",
+                "emoticons": [
+                    "😥"
+                ]
+            }
+        },
+        {
+            "body": "😙",
+            "url": "mxc://matrix.org/DyvHHFIwTTVFbLrVGHKyyLzt",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 232025,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/DyvHHFIwTTVFbLrVGHKyyLzt",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 232025,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6296496504899112128",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6296496504899112128",
+                "emoticons": [
+                    "😙"
+                ]
+            }
+        },
+        {
+            "body": "☺️",
+            "url": "mxc://matrix.org/OICwrcCnHKOblwoDWHqMOgbI",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 323376,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/OICwrcCnHKOblwoDWHqMOgbI",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 323376,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6294103280402304032",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6294103280402304032",
+                "emoticons": [
+                    "☺"
+                ]
+            }
+        },
+        {
+            "body": "🤨",
+            "url": "mxc://matrix.org/WAXneClqLMCoWqDvwFbRTeRY",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 243982,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/WAXneClqLMCoWqDvwFbRTeRY",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 243982,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6294143047504497867",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6294143047504497867",
+                "emoticons": [
+                    "🤨"
+                ]
+            }
+        },
+        {
+            "body": "🤨",
+            "url": "mxc://matrix.org/PThwZISRnZynenyIvkYmvefi",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 264550,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/PThwZISRnZynenyIvkYmvefi",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 264550,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6293944267828103944",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6293944267828103944",
+                "emoticons": [
+                    "🤨"
+                ]
+            }
+        },
+        {
+            "body": "😊",
+            "url": "mxc://matrix.org/wlAgdtdPGSizZnvrfkkmUPLx",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 215563,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.org/wlAgdtdPGSizZnvrfkkmUPLx",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 215563,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6294167120796191760",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4209876048168353773",
+                    "short_name": "chocolate_leba"
+                },
+                "id": "6294167120796191760",
+                "emoticons": [
+                    "😊"
+                ]
+            }
+        }
+    ]
+}
